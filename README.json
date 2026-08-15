@@ -187,7 +187,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T03:00:45Z",
+            "last_commit": "2026-08-15T00:15:13Z",
             "owner": "googleapis",
             "repo": "google-cloud-ruby",
             "stars": 1424
@@ -513,7 +513,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T06:21:02Z",
+            "last_commit": "2026-08-15T06:49:03Z",
             "owner": "yohasebe",
             "repo": "rsyntaxtree",
             "stars": 122
@@ -1345,10 +1345,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-14T07:39:11Z",
+            "last_commit": "2026-08-15T05:34:11Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58690
+            "stars": 58686
           }
         },
         {
@@ -1707,7 +1707,7 @@
             "last_commit": "2019-04-02T12:35:13Z",
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2225
+            "stars": 2226
           }
         },
         {
@@ -1762,7 +1762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:49:55.673Z",
+    "last_updated": "2026-08-15T08:02:30.663Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
     "enhanced_repository": "enhansome/enhansome-nlp-with-ruby",
