@@ -513,7 +513,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T13:10:49Z",
+            "last_commit": "2026-08-17T05:11:25Z",
             "owner": "yohasebe",
             "repo": "rsyntaxtree",
             "stars": 122
@@ -704,7 +704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T20:25:41Z",
+            "last_commit": "2026-08-16T11:10:33Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2896
@@ -1272,7 +1272,7 @@
             "last_commit": "2025-06-30T07:17:13Z",
             "owner": "sunspot",
             "repo": "sunspot",
-            "stars": 2980
+            "stars": 2979
           }
         },
         {
@@ -1283,7 +1283,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T20:25:41Z",
+            "last_commit": "2026-08-16T11:10:33Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2896
@@ -1297,7 +1297,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T19:37:34Z",
+            "last_commit": "2026-08-17T06:16:43Z",
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
             "stars": 1977
@@ -1345,7 +1345,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T07:06:28Z",
+            "last_commit": "2026-08-17T07:47:06Z",
             "owner": "rails",
             "repo": "rails",
             "stars": 58686
@@ -1665,7 +1665,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17559
+            "stars": 17551
           }
         },
         {
@@ -1679,7 +1679,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14139
+            "stars": 14140
           }
         },
         {
@@ -1762,7 +1762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:03:10.058Z",
+    "last_updated": "2026-08-17T08:26:06.879Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
     "enhanced_repository": "enhansome/enhansome-nlp-with-ruby",
