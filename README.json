@@ -187,7 +187,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-15T00:15:13Z",
+            "last_commit": "2026-08-17T23:38:12Z",
             "owner": "googleapis",
             "repo": "google-cloud-ruby",
             "stars": 1424
@@ -513,7 +513,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T05:11:25Z",
+            "last_commit": "2026-08-18T07:24:39Z",
             "owner": "yohasebe",
             "repo": "rsyntaxtree",
             "stars": 122
@@ -704,7 +704,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T11:10:33Z",
+            "last_commit": "2026-08-17T21:43:41Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2896
@@ -1269,7 +1269,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2025-06-30T07:17:13Z",
+            "last_commit": "2026-08-18T07:11:14Z",
             "owner": "sunspot",
             "repo": "sunspot",
             "stars": 2979
@@ -1283,7 +1283,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T11:10:33Z",
+            "last_commit": "2026-08-17T21:43:41Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2896
@@ -1345,10 +1345,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T07:47:06Z",
+            "last_commit": "2026-08-18T07:59:16Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58686
+            "stars": 58691
           }
         },
         {
@@ -1762,7 +1762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:26:06.879Z",
+    "last_updated": "2026-08-18T08:16:32.563Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
     "enhanced_repository": "enhansome/enhansome-nlp-with-ruby",

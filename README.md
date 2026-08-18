@@ -1,6 +1,6 @@
 <img src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 496,717 | 🐛 100 | 📅 2026-06-30 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 497,131 | 🐛 103 | 📅 2026-06-30 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,220 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 720 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -10,7 +10,7 @@
 
 > Useful resources for text processing in Ruby
 
-This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 496,717 | 🐛 100 | 📅 2026-06-30
+This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 497,131 | 🐛 103 | 📅 2026-06-30
 resources, libraries, information sources about computational processing of texts
 in human languages with the [Ruby programming language](ruby).
 That field is often referred to as
@@ -112,7 +112,7 @@ An NLP Pipeline starts with a plain text.
 * [treat](https://github.com/louismullie/treat) ⭐ 1,367 | 🐛 35 | 🌐 Ruby | 📅 2025-05-16 -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 * [stanford-core-nlp](https://github.com/louismullie/stanford-core-nlp) ⭐ 436 | 🐛 18 | 🌐 Ruby | 📅 2025-05-16 -
-  Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,103 | 🐛 182 | 🌐 Java | 📅 2026-06-28 tools.
+  Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,102 | 🐛 182 | 🌐 Java | 📅 2026-06-28 tools.
 * [open-nlp](https://github.com/louismullie/open-nlp) ⭐ 91 | 🐛 2 | 🌐 Ruby | 📅 2025-05-16 -
   Ruby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 * [ruby-spacy](https://github.com/yohasebe/ruby-spacy) ⭐ 68 | 🐛 3 | 🌐 Ruby | 📅 2026-07-21 —
@@ -125,7 +125,7 @@ An NLP Pipeline starts with a plain text.
 
 #### On-line APIs
 
-* [google-cloud-language](https://github.com/googleapis/google-cloud-ruby/tree/master/google-cloud-language) ⭐ 1,424 | 🐛 68 | 🌐 Ruby | 📅 2026-08-15 -
+* [google-cloud-language](https://github.com/googleapis/google-cloud-ruby/tree/master/google-cloud-language) ⭐ 1,424 | 🐛 62 | 🌐 Ruby | 📅 2026-08-17 -
   Google's Natural Language service API for Ruby.
 * [wit-ruby](https://github.com/wit-ai/wit-ruby) ⭐ 280 | 🐛 2 | 🌐 Ruby | 📅 2022-05-09 -
   Ruby client library for the [Wit.ai](https://wit.ai/) Language Understanding Platform.
@@ -184,7 +184,7 @@ linguistic motivation.
 Lemmatization is considered a process of finding a base form of a word. Lemmas
 are often collected in dictionaries.
 
-* [lemmatizer](https://github.com/yohasebe/lemmatizer) ⭐ 112 | 🐛 2 | 🌐 Ruby | 📅 2021-10-14 -
+* [lemmatizer](https://github.com/yohasebe/lemmatizer) ⭐ 113 | 🐛 2 | 🌐 Ruby | 📅 2021-10-14 -
   WordNet based Lemmatizer for English texts.
 
 #### Lexical Statistics: Counting Types and Tokens
@@ -214,7 +214,7 @@ are often collected in dictionaries.
 
 #### Constituency Parsing
 
-* [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) ⭐ 122 | 🐛 3 | 🌐 Ruby | 📅 2026-08-17 -
+* [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) ⭐ 122 | 🐛 3 | 🌐 Ruby | 📅 2026-08-18 -
   Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 4 | 🌐 C++ | 📅 2026-08-06. <sup>\[dep: [ImageMagick](#imagemagick)]</sup>
 * [rley](https://github.com/famished-tiger/Rley) ⭐ 37 | 🐛 2 | 🌐 Ruby | 📅 2025-03-18 -
   Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
@@ -262,7 +262,7 @@ are often collected in dictionaries.
 
 ### Machine Translation
 
-* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,896 | 🐛 43 | 🌐 Ruby | 📅 2026-08-16 -
+* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,896 | 🐛 42 | 🌐 Ruby | 📅 2026-08-17 -
   Google API Ruby Client.
 * [termit](https://github.com/pawurb/termit) ⚠️ Archived -
   Google Translate with speech synthesis in your terminal.
@@ -373,7 +373,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Optical Character Recognition
 
 * [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) ⭐ 636 | 🐛 24 | 🌐 Ruby | 📅 2017-07-02 -
-  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 75,953 | 🐛 484 | 🌐 C++ | 📅 2026-08-17.
+  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 75,975 | 🐛 484 | 🌐 C++ | 📅 2026-08-17.
 
 ## Text Extraction
 
@@ -385,9 +385,9 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 * [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) ⭐ 3,083 | 🐛 53 | 🌐 Ruby | 📅 2025-10-08 -
   Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
-* [sunspot](https://github.com/sunspot/sunspot) ⭐ 2,979 | 🐛 153 | 🌐 JavaScript | 📅 2025-06-30 -
+* [sunspot](https://github.com/sunspot/sunspot) ⭐ 2,979 | 🐛 152 | 🌐 JavaScript | 📅 2026-08-18 -
   Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
-* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,896 | 🐛 43 | 🌐 Ruby | 📅 2026-08-16 -
+* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,896 | 🐛 42 | 🌐 Ruby | 📅 2026-08-17 -
   Ruby API library for [Google](https://developers.google.com/api-client-library/ruby/) services.
 * [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) ⭐ 1,977 | 🐛 21 | 🌐 Ruby | 📅 2026-08-17 -
   Ruby client and API for [Elasticsearch](https://www.elastic.co/).
@@ -403,7 +403,7 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,686 | 🐛 1,588 | 🌐 Ruby | 📅 2026-08-17 -
+* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,691 | 🐛 1,585 | 🌐 Ruby | 📅 2026-08-18 -
   RoR `ActiveSupport` gem has various string extensions that can handle case.
 * [fuzzy\_match](https://github.com/seamusabshere/fuzzy_match) ⭐ 686 | 🐛 18 | 🌐 Ruby | 📅 2021-05-11 -
   Fuzzy string comparison with Distance measures and Regular Expression.
@@ -582,4 +582,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
