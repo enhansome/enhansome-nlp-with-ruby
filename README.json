@@ -1,962 +1,1031 @@
 {
   "items": [
     {
-      "description": "Please help us to fill out this section! :smiley:",
-      "items": [],
-      "title": ":sparkles: Tutorials"
-    },
-    {
       "description": "An NLP Pipeline starts with a plain text.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "parallel",
+              "description": "Supervisor for parallel execution on multiple CPUs or in many threads.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 275303,
+                "language": "Ruby",
+                "last_commit": "2026-05-15T22:00:59Z",
+                "owner": "grosser",
+                "repo": "parallel",
+                "stars": 4265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruby-spark",
+              "description": "Spark bindings with an easy to understand DSL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29879192,
+                "language": "Ruby",
+                "last_commit": "2017-08-31T10:27:59Z",
+                "owner": "ondra-m",
+                "repo": "ruby-spark",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phobos",
+              "description": "Simplified Ruby Client for Apache Kafka.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65630666,
+                "language": "Ruby",
+                "last_commit": "2025-04-30T18:38:58Z",
+                "owner": "phobos",
+                "repo": "phobos",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pwrake",
+              "description": "Rake extensions to run local and remote tasks in parallel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4015087,
+                "language": "Ruby",
+                "last_commit": "2020-01-16T07:12:37Z",
+                "owner": "masa16",
+                "repo": "pwrake",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "composable_operations",
+              "description": "Definition framework for operation pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10597684,
+                "language": "Ruby",
+                "last_commit": "2016-09-23T20:41:15Z",
+                "owner": "t6d",
+                "repo": "composable_operations",
+                "stars": 47
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pipeline Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "treat",
+              "description": "Natural Language Processing framework for Ruby (like NLTK for Python).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3252442,
+                "language": "Ruby",
+                "last_commit": "2025-05-16T03:25:32Z",
+                "owner": "louismullie",
+                "repo": "treat",
+                "stars": 1367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stanford-core-nlp",
+              "description": "Ruby Bindings for the Stanford CoreNLP tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3302689,
+                "language": "Ruby",
+                "last_commit": "2025-05-16T03:26:04Z",
+                "owner": "louismullie",
+                "repo": "stanford-core-nlp",
+                "stars": 436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-nlp",
+              "description": "Ruby Bindings for the OpenNLP Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7233981,
+                "language": "Ruby",
+                "last_commit": "2025-05-16T03:25:50Z",
+                "owner": "louismullie",
+                "repo": "open-nlp",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruby-spacy",
+              "description": "Wrapper module for spaCy NLP library via PyCall.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378303363,
+                "language": "Ruby",
+                "last_commit": "2026-07-21T06:48:19Z",
+                "owner": "yohasebe",
+                "repo": "ruby-spacy",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open_nlp",
+              "description": "JRuby Bindings for the OpenNLP Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5899392,
+                "language": "Ruby",
+                "last_commit": "2018-11-28T22:06:57Z",
+                "owner": "hck",
+                "repo": "open_nlp",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nlp_toolz",
+              "description": "Wrapper over some OpenNLP classes and the original Berkeley Parser.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 7051532,
+                "language": "Ruby",
+                "last_commit": "2018-04-17T06:24:32Z",
+                "owner": "LeFnord",
+                "repo": "nlp_toolz",
+                "stars": 2
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "google-cloud-language",
+                  "description": "Google's Natural Language service API for Ruby.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20343475,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-19T02:46:31Z",
+                    "owner": "googleapis",
+                    "repo": "google-cloud-ruby",
+                    "stars": 1424
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wit-ruby",
+                  "description": "Ruby client library for the Wit.ai Language Understanding Platform.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24660182,
+                    "language": "Ruby",
+                    "last_commit": "2022-05-09T17:49:39Z",
+                    "owner": "wit-ai",
+                    "repo": "wit-ruby",
+                    "stars": 280
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "alchemyapi_ruby",
+                  "description": "Legacy Ruby SDK for AlchemyAPI/Bluemix.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 13345313,
+                    "language": "Ruby",
+                    "last_commit": "2016-09-28T15:49:09Z",
+                    "owner": "AlchemyAPI",
+                    "repo": "alchemyapi_ruby",
+                    "stars": 36
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wlapi",
+                  "description": "Ruby client library for Wortschatz Leipzig web services.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2651035,
+                    "language": "Ruby",
+                    "last_commit": "2023-03-03T13:26:37Z",
+                    "owner": "arbox",
+                    "repo": "wlapi",
+                    "stars": 19
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "On-line APIs"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multipurpose Engines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pragmatic_segmenter",
+              "description": "Word Boundary Disambiguation with many cookies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28769533,
+                "language": "Ruby",
+                "last_commit": "2024-08-11T21:17:24Z",
+                "owner": "diasks2",
+                "repo": "pragmatic_segmenter",
+                "stars": 594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pragmatic_tokenizer",
+              "description": "Multilingual tokenizer to split a string into tokens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49049674,
+                "language": "Ruby",
+                "last_commit": "2024-08-11T21:25:01Z",
+                "owner": "diasks2",
+                "repo": "pragmatic_tokenizer",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "punkt-segmenter",
+              "description": "Pure Ruby implementation of the Punkt Segmenter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 740516,
+                "language": "Ruby",
+                "last_commit": "2018-06-10T22:23:21Z",
+                "owner": "lfcipriani",
+                "repo": "punkt-segmenter",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tactful_tokenizer",
+              "description": "RegExp based tokenizer for different languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555329,
+                "language": "Ruby",
+                "last_commit": "2014-04-30T13:40:53Z",
+                "owner": "zencephalon",
+                "repo": "Tactful_Tokenizer",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scapel",
+              "description": "Sentence Boundary Disambiguation tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5422326,
+                "language": "Ruby",
+                "last_commit": "2026-01-29T22:26:58Z",
+                "owner": "louismullie",
+                "repo": "scalpel",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tokenizer",
+              "description": "Simple multilingual tokenizer. [tutorial]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2256010,
+                "language": "Ruby",
+                "last_commit": "2017-04-03T05:46:02Z",
+                "owner": "arbox",
+                "repo": "tokenizer",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "textoken",
+              "description": "Simple and customizable text tokenization library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43002956,
+                "language": "Ruby",
+                "last_commit": "2021-09-28T16:08:31Z",
+                "owner": "thisiscetin",
+                "repo": "textoken",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nlp-pure",
+              "description": "Natural language processing algorithms implemented in pure Ruby with minimal dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30809385,
+                "language": "Ruby",
+                "last_commit": "2017-04-18T16:56:26Z",
+                "owner": "parhamr",
+                "repo": "nlp-pure",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.",
+          "node_type": "group",
+          "title": "Segmentation"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ruby-stemmer",
+                  "description": "Ruby-Stemmer exposes the SnowBall API to Ruby.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 66944,
+                    "language": "C",
+                    "last_commit": "2022-05-12T10:57:26Z",
+                    "owner": "aurelian",
+                    "repo": "ruby-stemmer",
+                    "stars": 249
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "uea-stemmer",
+                  "description": "Conservative stemmer for search and indexing.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 251807,
+                    "language": "Ruby",
+                    "last_commit": "2026-05-21T12:26:14Z",
+                    "owner": "ealdent",
+                    "repo": "uea-stemmer",
+                    "stars": 55
+                  }
+                }
+              ],
+              "description": "Stemming is the term used in information retrieval to describe the process for reducing wordforms to some base representation. Stemming should be distinguished from Lemmatization since are not necessarily have linguistic motivation.",
+              "node_type": "group",
+              "title": "Stemming"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "words_counted",
+                  "description": "Pure Ruby library counting word statistics with different custom options.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19299241,
+                    "language": "Ruby",
+                    "last_commit": "2021-10-28T12:40:38Z",
+                    "owner": "abitdodgy",
+                    "repo": "words_counted",
+                    "stars": 165
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "wc",
+                  "description": "Facilities to count word occurrences in a text.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 711846,
+                    "language": "JavaScript",
+                    "last_commit": "2011-11-15T16:28:52Z",
+                    "owner": "thesp0nge",
+                    "repo": "wc",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "word_count",
+                  "description": "Word counter for and objects.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 13493781,
+                    "language": "Ruby",
+                    "last_commit": "2019-03-28T09:05:18Z",
+                    "owner": "webtranslateit",
+                    "repo": "word_count",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Lexical Statistics: Counting Types and Tokens"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lexical Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "raingrams",
+              "description": "Flexible and general-purpose ngrams library written in pure Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145724,
+                "language": "Ruby",
+                "last_commit": "2021-02-28T04:45:08Z",
+                "owner": "postmodern",
+                "repo": "raingrams",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "n_gram",
+              "description": "N-Gram generator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441853,
+                "language": "Ruby",
+                "last_commit": "2021-10-02T20:00:34Z",
+                "owner": "reddavis",
+                "repo": "N-Gram",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruby-ngram",
+              "description": "Break words and phrases into ngrams.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15139011,
+                "language": "Ruby",
+                "last_commit": "2013-12-12T18:53:54Z",
+                "owner": "tkellen",
+                "repo": "ruby-ngram",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Phrasal Level Processing"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rsyntaxtree",
+                  "description": "Visualization for syntactic trees in Ruby based on RMagick. [dep: ImageMagick]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 389209,
+                    "language": "Ruby",
+                    "last_commit": "2026-08-19T05:40:28Z",
+                    "owner": "yohasebe",
+                    "repo": "rsyntaxtree",
+                    "stars": 122
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "rley",
+                  "description": "Pure Ruby implementation of the Earley Parsing Algorithm for Context-Free Constituency Grammars.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26335731,
+                    "language": "Ruby",
+                    "last_commit": "2025-03-18T19:33:04Z",
+                    "owner": "famished-tiger",
+                    "repo": "Rley",
+                    "stars": 37
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Constituency Parsing"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Syntactic Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tf-idf-similarity",
+              "description": "Calculate the similarity between texts using TF/IDF.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5743500,
+                "language": "Ruby",
+                "last_commit": "2024-02-26T19:13:14Z",
+                "owner": "jpmckinney",
+                "repo": "tf-idf-similarity",
+                "stars": 783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "amatch",
+              "description": "Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288215,
+                "language": "C",
+                "last_commit": "2026-06-05T17:55:21Z",
+                "owner": "flori",
+                "repo": "amatch",
+                "stars": 395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "damerau-levenshtein",
+              "description": "Calculates edit distance using the Damerau-Levenshtein algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2085407,
+                "language": "Ruby",
+                "last_commit": "2024-10-03T09:41:06Z",
+                "owner": "GlobalNamesArchitecture",
+                "repo": "damerau-levenshtein",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "levenshtein-ffi",
+              "description": "Fast string edit distance computation, using the Damerau-Levenshtein algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599217,
+                "language": "Ruby",
+                "last_commit": "2024-05-28T15:33:49Z",
+                "owner": "dbalatero",
+                "repo": "levenshtein-ffi",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hotwater",
+              "description": "Fast Ruby FFI string edit distance algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8403983,
+                "language": "Ruby",
+                "last_commit": "2013-02-26T05:46:37Z",
+                "owner": "colinsurprenant",
+                "repo": "hotwater",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tf_idf",
+              "description": "Term Frequency / Inverse Document Frequency in pure Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441847,
+                "language": "Ruby",
+                "last_commit": "2012-02-09T16:31:44Z",
+                "owner": "reddavis",
+                "repo": "TF-IDF",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semantic Analysis"
+        }
+      ],
       "title": "NLP Pipeline Subtasks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "parallel",
-          "description": "Supervisor for parallel execution on multiple CPUs or in many threads.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-05-15T22:00:59Z",
-            "owner": "grosser",
-            "repo": "parallel",
-            "stars": 4265
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gingerice",
+              "description": "Spelling and Grammar corrections via the Ginger API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 9711930,
+                "language": "Ruby",
+                "last_commit": "2019-08-29T07:45:41Z",
+                "owner": "subosito",
+                "repo": "gingerice",
+                "stars": 477
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ffi-hunspell",
+              "description": "FFI based Ruby bindings for Hunspell.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965681,
+                "language": "Ruby",
+                "last_commit": "2023-12-28T05:06:50Z",
+                "owner": "postmodern",
+                "repo": "ffi-hunspell",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hunspell",
+              "description": "Ruby bindings to Hunspell via Ruby C API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1699694,
+                "language": "C",
+                "last_commit": "2025-05-23T08:06:03Z",
+                "owner": "segabor",
+                "repo": "Hunspell",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hunspell-i18n",
+              "description": "Ruby bindings to the standard Hunspell Spell Checker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1705996,
+                "language": "C",
+                "last_commit": "2012-08-15T15:22:02Z",
+                "owner": "romanbsd",
+                "repo": "hunspell",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spelling and Error Correction"
         },
         {
-          "node_type": "item",
-          "title": "ruby-spark",
-          "description": "Spark bindings with an easy to understand DSL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-08-31T10:27:59Z",
-            "owner": "ondra-m",
-            "repo": "ruby-spark",
-            "stars": 226
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "google-api-client",
+              "description": "Google API Ruby Client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3277842,
+                "language": "Ruby",
+                "last_commit": "2026-08-17T21:43:41Z",
+                "owner": "googleapis",
+                "repo": "google-api-ruby-client",
+                "stars": 2896
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "termit",
+              "description": "Google Translate with speech synthesis in your terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12195612,
+                "language": "Ruby",
+                "last_commit": "2017-05-25T08:07:25Z",
+                "owner": "pawurb",
+                "repo": "termit",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft_translator",
+              "description": "Ruby client for the microsoft translator API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4609086,
+                "language": "Ruby",
+                "last_commit": "2017-05-10T04:53:55Z",
+                "owner": "ikayzo",
+                "repo": "microsoft_translator",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zipf",
+              "description": "implementation of BLEU and other base algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16353941,
+                "language": "Ruby",
+                "last_commit": "2016-03-06T09:17:09Z",
+                "owner": "pks",
+                "repo": "zipf",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Translation"
         },
         {
-          "node_type": "item",
-          "title": "phobos",
-          "description": "Simplified Ruby Client for Apache Kafka.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2025-04-30T18:38:58Z",
-            "owner": "phobos",
-            "repo": "phobos",
-            "stars": 218
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chronic",
+              "description": "Pure Ruby natural language date parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144,
+                "language": "Ruby",
+                "last_commit": "2023-09-28T02:41:20Z",
+                "owner": "mojombo",
+                "repo": "chronic",
+                "stars": 3255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chronic_duration",
+              "description": "Pure Ruby parser for elapsed time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105431,
+                "language": "Ruby",
+                "last_commit": "2025-04-21T19:27:46Z",
+                "owner": "henrypoydar",
+                "repo": "chronic_duration",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kronic",
+              "description": "Methods for parsing and formatting human readable dates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 922861,
+                "language": "Ruby",
+                "last_commit": "2014-08-10T20:28:00Z",
+                "owner": "xaviershay",
+                "repo": "kronic",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nickel",
+              "description": "Extracts date, time, and message information from naturally worded text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11038192,
+                "language": "Ruby",
+                "last_commit": "2017-10-31T05:39:43Z",
+                "owner": "iainbeeston",
+                "repo": "nickel",
+                "stars": 118
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tickle",
+              "description": "Parser for recurring and repeating events.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3159399,
+                "language": "Ruby",
+                "last_commit": "2020-09-18T08:57:22Z",
+                "owner": "yb66",
+                "repo": "tickle",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "numerizer",
+              "description": "Ruby parser for English number expressions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448739,
+                "language": "Ruby",
+                "last_commit": "2023-02-05T16:03:32Z",
+                "owner": "jduff",
+                "repo": "numerizer",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chronic_between",
+              "description": "Simple Ruby natural language parser for date and time ranges.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1529842,
+                "language": "Ruby",
+                "last_commit": "2021-06-20T22:03:45Z",
+                "owner": "jrobertson",
+                "repo": "chronic_between",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Numbers, Dates, and Time Parsing"
         },
         {
-          "node_type": "item",
-          "title": "pwrake",
-          "description": "Rake extensions to run local and remote tasks in parallel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2020-01-16T07:12:37Z",
-            "owner": "masa16",
-            "repo": "pwrake",
-            "stars": 57
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ruby-nlp",
+              "description": "Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41662,
+                "language": "Ruby",
+                "last_commit": "2014-08-05T10:23:49Z",
+                "owner": "tiendung",
+                "repo": "ruby-nlp",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ruby-ner",
+              "description": "Named Entity Recognition with Stanford NER and Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4211416,
+                "language": "Ruby",
+                "last_commit": "2022-12-16T17:18:25Z",
+                "owner": "mikeylong",
+                "repo": "ruby-ner",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Named Entity Recognition"
         },
         {
-          "node_type": "item",
-          "title": "composable_operations",
-          "description": "Definition framework for operation pipelines.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2016-09-23T20:41:15Z",
-            "owner": "t6d",
-            "repo": "composable_operations",
-            "stars": 47
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pocketsphinx-ruby",
+              "description": "Pocketsphinx bindings.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25201289,
+                "language": "Ruby",
+                "last_commit": "2017-07-25T10:48:11Z",
+                "owner": "watsonbox",
+                "repo": "pocketsphinx-ruby",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "espeak-ruby",
+              "description": "Small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100491,
+                "language": "Ruby",
+                "last_commit": "2026-04-02T19:09:35Z",
+                "owner": "dejan",
+                "repo": "espeak-ruby",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tts",
+              "description": "Text-to-Speech conversion using the Google translate service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1899096,
+                "language": "Ruby",
+                "last_commit": "2022-10-20T11:57:01Z",
+                "owner": "c2h2",
+                "repo": "tts",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "att_speech",
+              "description": "Ruby wrapper over the AT&T Speech API for speech to text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5428164,
+                "language": "Ruby",
+                "last_commit": "2014-03-21T16:40:31Z",
+                "owner": "adhearsion",
+                "repo": "att_speech",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text-to-Speech-to-Text"
         }
       ],
-      "title": "Pipeline Generation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "treat",
-          "description": "Natural Language Processing framework for Ruby (like NLTK for Python).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-05-16T03:25:32Z",
-            "owner": "louismullie",
-            "repo": "treat",
-            "stars": 1367
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stanford-core-nlp",
-          "description": "Ruby Bindings for the Stanford CoreNLP tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-05-16T03:26:04Z",
-            "owner": "louismullie",
-            "repo": "stanford-core-nlp",
-            "stars": 436
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-nlp",
-          "description": "Ruby Bindings for the OpenNLP Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-05-16T03:25:50Z",
-            "owner": "louismullie",
-            "repo": "open-nlp",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ruby-spacy",
-          "description": "Wrapper module for spaCy NLP library via PyCall.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-21T06:48:19Z",
-            "owner": "yohasebe",
-            "repo": "ruby-spacy",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open_nlp",
-          "description": "JRuby Bindings for the OpenNLP Toolkit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2018-11-28T22:06:57Z",
-            "owner": "hck",
-            "repo": "open_nlp",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nlp_toolz",
-          "description": "Wrapper over some OpenNLP classes and the original Berkeley Parser.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2018-04-17T06:24:32Z",
-            "owner": "LeFnord",
-            "repo": "nlp_toolz",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Multipurpose Engines"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "google-cloud-language",
-          "description": "Google's Natural Language service API for Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-17T23:38:12Z",
-            "owner": "googleapis",
-            "repo": "google-cloud-ruby",
-            "stars": 1424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wit-ruby",
-          "description": "Ruby client library for the Wit.ai Language Understanding Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-05-09T17:49:39Z",
-            "owner": "wit-ai",
-            "repo": "wit-ruby",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alchemyapi_ruby",
-          "description": "Legacy Ruby SDK for AlchemyAPI/Bluemix.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2016-09-28T15:49:09Z",
-            "owner": "AlchemyAPI",
-            "repo": "alchemyapi_ruby",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wlapi",
-          "description": "Ruby client library for Wortschatz Leipzig web services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-03-03T13:26:37Z",
-            "owner": "arbox",
-            "repo": "wlapi",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "monkeylearn-ruby",
-          "description": "Sentiment Analysis, Topic Modelling, Language Detection, Named Entity Recognition via a Ruby based Web API client.",
-          "children": []
-        }
-      ],
-      "title": "On-line APIs"
-    },
-    {
-      "description": "Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pragmatic_segmenter",
-          "description": "Word Boundary Disambiguation with many cookies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-08-11T21:17:24Z",
-            "owner": "diasks2",
-            "repo": "pragmatic_segmenter",
-            "stars": 594
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pragmatic_tokenizer",
-          "description": "Multilingual tokenizer to split a string into tokens.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-08-11T21:25:01Z",
-            "owner": "diasks2",
-            "repo": "pragmatic_tokenizer",
-            "stars": 93
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "punkt-segmenter",
-          "description": "Pure Ruby implementation of the Punkt Segmenter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2018-06-10T22:23:21Z",
-            "owner": "lfcipriani",
-            "repo": "punkt-segmenter",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tactful_tokenizer",
-          "description": "RegExp based tokenizer for different languages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-04-30T13:40:53Z",
-            "owner": "zencephalon",
-            "repo": "Tactful_Tokenizer",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scapel",
-          "description": "Sentence Boundary Disambiguation tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-01-29T22:26:58Z",
-            "owner": "louismullie",
-            "repo": "scalpel",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tokenizer",
-          "description": "Simple multilingual tokenizer. [tutorial]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-04-03T05:46:02Z",
-            "owner": "arbox",
-            "repo": "tokenizer",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "textoken",
-          "description": "Simple and customizable text tokenization library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-09-28T16:08:31Z",
-            "owner": "thisiscetin",
-            "repo": "textoken",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nlp-pure",
-          "description": "Natural language processing algorithms implemented in pure Ruby with minimal dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2017-04-18T16:56:26Z",
-            "owner": "parhamr",
-            "repo": "nlp-pure",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Segmentation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lexical Processing"
-    },
-    {
-      "description": "Stemming is the term used in information retrieval to describe the process for reducing wordforms to some base representation. Stemming should be distinguished from Lemmatization since are not necessarily have linguistic motivation.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ruby-stemmer",
-          "description": "Ruby-Stemmer exposes the SnowBall API to Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2022-05-12T10:57:26Z",
-            "owner": "aurelian",
-            "repo": "ruby-stemmer",
-            "stars": 249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uea-stemmer",
-          "description": "Conservative stemmer for search and indexing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-05-21T12:26:14Z",
-            "owner": "ealdent",
-            "repo": "uea-stemmer",
-            "stars": 55
-          }
-        }
-      ],
-      "title": "Stemming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "words_counted",
-          "description": "Pure Ruby library counting word statistics with different custom options.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-10-28T12:40:38Z",
-            "owner": "abitdodgy",
-            "repo": "words_counted",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wc",
-          "description": "Facilities to count word occurrences in a text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2011-11-15T16:28:52Z",
-            "owner": "thesp0nge",
-            "repo": "wc",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "word_count",
-          "description": "Word counter for and objects.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2019-03-28T09:05:18Z",
-            "owner": "webtranslateit",
-            "repo": "word_count",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Lexical Statistics: Counting Types and Tokens"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "raingrams",
-          "description": "Flexible and general-purpose ngrams library written in pure Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-02-28T04:45:08Z",
-            "owner": "postmodern",
-            "repo": "raingrams",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "n_gram",
-          "description": "N-Gram generator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-10-02T20:00:34Z",
-            "owner": "reddavis",
-            "repo": "N-Gram",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ruby-ngram",
-          "description": "Break words and phrases into ngrams.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2013-12-12T18:53:54Z",
-            "owner": "tkellen",
-            "repo": "ruby-ngram",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Phrasal Level Processing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Syntactic Processing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rsyntaxtree",
-          "description": "Visualization for syntactic trees in Ruby based on RMagick. [dep: ImageMagick]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-18T07:24:39Z",
-            "owner": "yohasebe",
-            "repo": "rsyntaxtree",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rley",
-          "description": "Pure Ruby implementation of the Earley Parsing Algorithm for Context-Free Constituency Grammars.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-03-18T19:33:04Z",
-            "owner": "famished-tiger",
-            "repo": "Rley",
-            "stars": 37
-          }
-        }
-      ],
-      "title": "Constituency Parsing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "tf-idf-similarity",
-          "description": "Calculate the similarity between texts using TF/IDF.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-02-26T19:13:14Z",
-            "owner": "jpmckinney",
-            "repo": "tf-idf-similarity",
-            "stars": 783
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "amatch",
-          "description": "Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-05T17:55:21Z",
-            "owner": "flori",
-            "repo": "amatch",
-            "stars": 395
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "damerau-levenshtein",
-          "description": "Calculates edit distance using the Damerau-Levenshtein algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-10-03T09:41:06Z",
-            "owner": "GlobalNamesArchitecture",
-            "repo": "damerau-levenshtein",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "levenshtein-ffi",
-          "description": "Fast string edit distance computation, using the Damerau-Levenshtein algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-05-28T15:33:49Z",
-            "owner": "dbalatero",
-            "repo": "levenshtein-ffi",
-            "stars": 151
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hotwater",
-          "description": "Fast Ruby FFI string edit distance algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2013-02-26T05:46:37Z",
-            "owner": "colinsurprenant",
-            "repo": "hotwater",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tf_idf",
-          "description": "Term Frequency / Inverse Document Frequency in pure Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2012-02-09T16:31:44Z",
-            "owner": "reddavis",
-            "repo": "TF-IDF",
-            "stars": 35
-          }
-        }
-      ],
-      "title": "Semantic Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "High Level Tasks"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gingerice",
-          "description": "Spelling and Grammar corrections via the Ginger API.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2019-08-29T07:45:41Z",
-            "owner": "subosito",
-            "repo": "gingerice",
-            "stars": 477
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ffi-hunspell",
-          "description": "FFI based Ruby bindings for Hunspell.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-12-28T05:06:50Z",
-            "owner": "postmodern",
-            "repo": "ffi-hunspell",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunspell",
-          "description": "Ruby bindings to Hunspell via Ruby C API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-05-23T08:06:03Z",
-            "owner": "segabor",
-            "repo": "Hunspell",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunspell-i18n",
-          "description": "Ruby bindings to the standard Hunspell Spell Checker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2012-08-15T15:22:02Z",
-            "owner": "romanbsd",
-            "repo": "hunspell",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Spelling and Error Correction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "google-api-client",
-          "description": "Google API Ruby Client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-17T21:43:41Z",
-            "owner": "googleapis",
-            "repo": "google-api-ruby-client",
-            "stars": 2896
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "termit",
-          "description": "Google Translate with speech synthesis in your terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2017-05-25T08:07:25Z",
-            "owner": "pawurb",
-            "repo": "termit",
-            "stars": 504
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microsoft_translator",
-          "description": "Ruby client for the microsoft translator API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-05-10T04:53:55Z",
-            "owner": "ikayzo",
-            "repo": "microsoft_translator",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zipf",
-          "description": "implementation of BLEU and other base algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2016-03-06T09:17:09Z",
-            "owner": "pks",
-            "repo": "zipf",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Machine Translation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "chronic",
-          "description": "Pure Ruby natural language date parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-09-28T02:41:20Z",
-            "owner": "mojombo",
-            "repo": "chronic",
-            "stars": 3255
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chronic_duration",
-          "description": "Pure Ruby parser for elapsed time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-04-21T19:27:46Z",
-            "owner": "henrypoydar",
-            "repo": "chronic_duration",
-            "stars": 355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kronic",
-          "description": "Methods for parsing and formatting human readable dates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-08-10T20:28:00Z",
-            "owner": "xaviershay",
-            "repo": "kronic",
-            "stars": 149
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nickel",
-          "description": "Extracts date, time, and message information from naturally worded text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-10-31T05:39:43Z",
-            "owner": "iainbeeston",
-            "repo": "nickel",
-            "stars": 118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tickle",
-          "description": "Parser for recurring and repeating events.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2020-09-18T08:57:22Z",
-            "owner": "yb66",
-            "repo": "tickle",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "numerizer",
-          "description": "Ruby parser for English number expressions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-02-05T16:03:32Z",
-            "owner": "jduff",
-            "repo": "numerizer",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chronic_between",
-          "description": "Simple Ruby natural language parser for date and time ranges.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-06-20T22:03:45Z",
-            "owner": "jrobertson",
-            "repo": "chronic_between",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "Numbers, Dates, and Time Parsing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ruby-nlp",
-          "description": "Ruby Binding for Stanford Pos-Tagger and Name Entity Recognizer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-08-05T10:23:49Z",
-            "owner": "tiendung",
-            "repo": "ruby-nlp",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ruby-ner",
-          "description": "Named Entity Recognition with Stanford NER and Ruby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-12-16T17:18:25Z",
-            "owner": "mikeylong",
-            "repo": "ruby-ner",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "Named Entity Recognition"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pocketsphinx-ruby",
-          "description": "Pocketsphinx bindings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-07-25T10:48:11Z",
-            "owner": "watsonbox",
-            "repo": "pocketsphinx-ruby",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "espeak-ruby",
-          "description": "Small Ruby API for utilizing 'espeak' and 'lame' to create text-to-speech mp3 files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-04-02T19:09:35Z",
-            "owner": "dejan",
-            "repo": "espeak-ruby",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tts",
-          "description": "Text-to-Speech conversion using the Google translate service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-10-20T11:57:01Z",
-            "owner": "c2h2",
-            "repo": "tts",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "att_speech",
-          "description": "Ruby wrapper over the AT&T Speech API for speech to text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2014-03-21T16:40:31Z",
-            "owner": "adhearsion",
-            "repo": "att_speech",
-            "stars": 20
-          }
-        }
-      ],
-      "title": "Text-to-Speech-to-Text"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -965,6 +1034,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9562528,
             "language": "Ruby",
             "last_commit": "2022-06-14T05:31:04Z",
             "owner": "litaio",
@@ -979,6 +1049,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1716726,
             "language": "Ruby",
             "last_commit": "2023-03-06T17:55:43Z",
             "owner": "muffinista",
@@ -990,7 +1061,7 @@
       "title": "Dialog Agents, Assistants, and Chatbots"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -999,6 +1070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1002356,
             "language": "Ruby",
             "last_commit": "2023-05-10T23:15:43Z",
             "owner": "ged",
@@ -1013,6 +1085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73996,
             "language": "Ruby",
             "last_commit": "2019-08-22T08:42:11Z",
             "owner": "doches",
@@ -1033,6 +1106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135191,
             "language": "Ruby",
             "last_commit": "2018-10-31T15:22:42Z",
             "owner": "igrigorik",
@@ -1047,6 +1121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22818441,
             "language": "Ruby",
             "last_commit": "2024-05-27T18:32:55Z",
             "owner": "jekyll",
@@ -1061,6 +1136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9036378,
             "language": "C",
             "last_commit": "2024-03-25T08:19:23Z",
             "owner": "tangledpath",
@@ -1075,6 +1151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151285,
             "language": "C++",
             "last_commit": "2023-12-07T20:35:24Z",
             "owner": "febeling",
@@ -1089,6 +1166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4552397,
             "language": "Ruby",
             "last_commit": "2024-02-12T21:38:14Z",
             "owner": "oasic",
@@ -1103,6 +1181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76136,
             "language": "Ruby",
             "last_commit": "2026-05-04T16:20:42Z",
             "owner": "ealdent",
@@ -1117,6 +1196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139964,
             "language": "C++",
             "last_commit": "2023-06-27T00:26:40Z",
             "owner": "tomz",
@@ -1131,6 +1211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47281785,
             "language": "Ruby",
             "last_commit": "2026-06-24T05:34:50Z",
             "owner": "paulgoetze",
@@ -1145,6 +1226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373074,
             "language": "Ruby",
             "last_commit": "2012-01-29T18:52:48Z",
             "owner": "reddavis",
@@ -1159,6 +1241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6419863,
             "language": "Ruby",
             "last_commit": "2015-12-26T06:25:04Z",
             "owner": "djcp",
@@ -1173,6 +1256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11218091,
             "language": "Ruby",
             "last_commit": "2021-01-13T06:38:47Z",
             "owner": "mustafaturan",
@@ -1187,6 +1271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10713038,
             "language": "Ruby",
             "last_commit": "2021-01-13T06:38:43Z",
             "owner": "mustafaturan",
@@ -1201,6 +1286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182761,
             "language": "Ruby",
             "last_commit": "2009-07-06T16:50:21Z",
             "owner": "mccraigmccraig",
@@ -1215,6 +1301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253211,
             "language": "C++",
             "last_commit": "2009-10-23T20:41:12Z",
             "owner": "maspwr",
@@ -1229,6 +1316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31306399,
             "language": "Ruby",
             "last_commit": "2016-08-03T11:34:53Z",
             "owner": "himkt",
@@ -1240,12 +1328,7 @@
       "title": "Machine Learning Libraries"
     },
     {
-      "description": "Please refer to the Data Visualization section on the Data Science with Ruby list.",
-      "items": [],
-      "title": "Data Visualization"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1254,6 +1337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14238949,
             "language": "Ruby",
             "last_commit": "2025-10-08T13:42:09Z",
             "owner": "elastic",
@@ -1268,6 +1352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62509,
             "language": "JavaScript",
             "last_commit": "2026-08-18T07:11:14Z",
             "owner": "sunspot",
@@ -1282,6 +1367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3277842,
             "language": "Ruby",
             "last_commit": "2026-08-17T21:43:41Z",
             "owner": "googleapis",
@@ -1296,6 +1382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9831101,
             "language": "Ruby",
             "last_commit": "2026-08-17T06:16:43Z",
             "owner": "elastic",
@@ -1310,6 +1397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9525,
             "language": "Ruby",
             "last_commit": "2026-01-11T03:14:25Z",
             "owner": "pat",
@@ -1324,6 +1412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87821,
             "language": "Ruby",
             "last_commit": "2026-06-26T18:05:57Z",
             "owner": "rsolr",
@@ -1344,11 +1433,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-18T07:59:16Z",
+            "last_commit": "2026-08-18T21:24:38Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58691
+            "stars": 58695
           }
         },
         {
@@ -1358,6 +1448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3172519,
             "language": "Ruby",
             "last_commit": "2021-05-11T08:38:25Z",
             "owner": "seamusabshere",
@@ -1372,6 +1463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11588390,
             "language": "Ruby",
             "last_commit": "2023-01-09T22:10:23Z",
             "owner": "ryan-endacott",
@@ -1386,6 +1478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26194110,
             "language": "Ruby",
             "last_commit": "2024-05-20T18:45:46Z",
             "owner": "tom-lord",
@@ -1400,6 +1493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 980226,
             "language": "Ruby",
             "last_commit": "2020-02-29T14:40:00Z",
             "owner": "kiyoka",
@@ -1414,6 +1508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795488,
             "language": "Ruby",
             "last_commit": "2026-07-01T07:18:19Z",
             "owner": "mudge",
@@ -1428,6 +1523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29731930,
             "language": "Ruby",
             "last_commit": "2021-11-29T10:41:12Z",
             "owner": "talyssonoc",
@@ -1442,6 +1538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541124,
             "language": "C",
             "last_commit": "2024-06-20T11:52:33Z",
             "owner": "blackwinter",
@@ -1456,6 +1553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4484813,
             "language": "Ruby",
             "last_commit": "2025-11-15T01:58:59Z",
             "owner": "brianhempel",
@@ -1470,6 +1568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260177404,
             "language": "Ruby",
             "last_commit": "2021-11-25T09:41:35Z",
             "owner": "adnikiforov",
@@ -1484,24 +1583,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82869272,
             "language": "Ruby",
             "last_commit": "2022-12-15T14:14:55Z",
             "owner": "AnalyzePlatypus",
             "repo": "TranslitKit",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "regex_sample",
-          "description": "sample string generation from a given Regular Expression.",
-          "children": []
         }
       ],
       "title": "Language Aware String Manipulation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -1515,6 +1609,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 17991654,
                 "language": "Ruby",
                 "last_commit": "2014-04-22T15:49:11Z",
                 "owner": "Genius",
@@ -1536,6 +1631,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12833114,
                 "language": "Ruby",
                 "last_commit": "2013-09-14T20:13:41Z",
                 "owner": "nathankleyn",
@@ -1557,6 +1653,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 352065,
                 "language": "Python",
                 "last_commit": "2009-11-17T23:36:52Z",
                 "owner": "gleicon",
@@ -1570,7 +1667,7 @@
       "title": "Articles, Posts, Talks, and Presentations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1579,6 +1676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19299241,
             "language": "Ruby",
             "last_commit": "2021-10-28T12:40:38Z",
             "owner": "abitdodgy",
@@ -1593,6 +1691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24178661,
             "language": "Ruby",
             "last_commit": "2016-09-07T20:40:51Z",
             "owner": "schneems",
@@ -1607,6 +1706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4211416,
             "language": "Ruby",
             "last_commit": "2022-12-16T17:18:25Z",
             "owner": "mikeylong",
@@ -1627,6 +1727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52506,
             "language": "C",
             "last_commit": "2023-02-01T09:47:20Z",
             "owner": "dbalmain",
@@ -1641,6 +1742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126587,
             "language": "Ruby",
             "last_commit": "2012-04-23T18:58:09Z",
             "owner": "ssoper",
@@ -1652,7 +1754,7 @@
       "title": "Needs your Help!"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1661,6 +1763,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52677592,
             "language": null,
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
@@ -1675,11 +1778,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21461715,
             "language": null,
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14140
+            "stars": 14141
           }
         },
         {
@@ -1689,11 +1793,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57230505,
             "language": null,
             "last_commit": "2024-07-06T21:02:05Z",
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3118
+            "stars": 3119
           }
         },
         {
@@ -1703,6 +1808,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22443092,
             "language": null,
             "last_commit": "2019-04-02T12:35:13Z",
             "owner": "edobashira",
@@ -1717,6 +1823,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32709807,
             "language": null,
             "last_commit": "2023-03-05T22:29:08Z",
             "owner": "diasks2",
@@ -1731,6 +1838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31613113,
             "language": "Ruby",
             "last_commit": "2026-06-30T01:27:30Z",
             "owner": "SciRuby",
@@ -1745,6 +1853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67118710,
             "language": null,
             "last_commit": "2022-07-27T04:23:42Z",
             "owner": "jonsafari",
@@ -1754,15 +1863,10 @@
         }
       ],
       "title": "Related Resources"
-    },
-    {
-      "description": "by Andrei Beliankou and Contributors.\nTo the extent possible under law, the person who associated CC0 with has waived all copyright and related or neighboring rights to .\nYou should have received a copy of the CC0 legalcode along with this work. If not, see https://creativecommons.org/publicdomain/zero/1.0/.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:16:32.563Z",
+    "last_updated": "2026-08-19T08:17:18.699Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
     "enhanced_repository": "enhansome/enhansome-nlp-with-ruby",
