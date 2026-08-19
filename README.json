@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-19T02:46:31Z",
+                    "last_commit": "2026-08-19T10:41:20Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -1866,8 +1866,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:17:18.699Z",
+    "last_updated": "2026-08-19T12:43:12.308Z",
     "original_repository": "arbox/nlp-with-ruby",
+    "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
     "enhanced_repository": "enhansome/enhansome-nlp-with-ruby",
     "enhanced_repository_description": null,

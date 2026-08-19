@@ -1,6 +1,6 @@
 <img src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 497,556 | 🐛 102 | 📅 2026-08-18 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,220 | 🐛 6 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 720 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -10,7 +10,7 @@
 
 > Useful resources for text processing in Ruby
 
-This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 497,556 | 🐛 102 | 📅 2026-08-18
+This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 497,666 | 🐛 102 | 📅 2026-08-18
 resources, libraries, information sources about computational processing of texts
 in human languages with the [Ruby programming language](ruby).
 That field is often referred to as
@@ -373,7 +373,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Optical Character Recognition
 
 * [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) ⭐ 636 | 🐛 24 | 🌐 Ruby | 📅 2017-07-02 -
-  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 75,987 | 🐛 484 | 🌐 C++ | 📅 2026-08-17.
+  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 75,988 | 🐛 485 | 🌐 C++ | 📅 2026-08-17.
 
 ## Text Extraction
 
@@ -403,7 +403,7 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,695 | 🐛 1,589 | 🌐 Ruby | 📅 2026-08-18 -
+* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,695 | 🐛 1,586 | 🌐 Ruby | 📅 2026-08-18 -
   RoR `ActiveSupport` gem has various string extensions that can handle case.
 * [fuzzy\_match](https://github.com/seamusabshere/fuzzy_match) ⭐ 686 | 🐛 18 | 🌐 Ruby | 📅 2021-05-11 -
   Fuzzy string comparison with Distance measures and Regular Expression.
