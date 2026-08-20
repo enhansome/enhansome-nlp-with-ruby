@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-15T22:00:59Z",
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4265
+                "stars": 4263
               }
             },
             {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-19T10:41:20Z",
+                    "last_commit": "2026-08-19T23:41:46Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -752,7 +752,7 @@
                 "last_commit": "2026-08-17T21:43:41Z",
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
-                "stars": 2896
+                "stars": 2895
               }
             },
             {
@@ -819,7 +819,7 @@
                 "last_commit": "2023-09-28T02:41:20Z",
                 "owner": "mojombo",
                 "repo": "chronic",
-                "stars": 3255
+                "stars": 3254
               }
             },
             {
@@ -1372,7 +1372,7 @@
             "last_commit": "2026-08-17T21:43:41Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
-            "stars": 2896
+            "stars": 2895
           }
         },
         {
@@ -1435,10 +1435,10 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-18T21:24:38Z",
+            "last_commit": "2026-08-20T01:58:01Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58695
+            "stars": 58696
           }
         },
         {
@@ -1783,7 +1783,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14141
+            "stars": 14142
           }
         },
         {
@@ -1798,7 +1798,7 @@
             "last_commit": "2024-07-06T21:02:05Z",
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3119
+            "stars": 3118
           }
         },
         {
@@ -1866,7 +1866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:12.308Z",
+    "last_updated": "2026-08-20T08:18:57.169Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
