@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-19T23:41:46Z",
+                    "last_commit": "2026-08-21T04:01:32Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -540,7 +540,7 @@
                     "last_commit": "2026-08-19T05:40:28Z",
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
-                    "stars": 122
+                    "stars": 123
                   }
                 },
                 {
@@ -1054,7 +1054,7 @@
             "last_commit": "2023-03-06T17:55:43Z",
             "owner": "muffinista",
             "repo": "chatterbot",
-            "stars": 490
+            "stars": 491
           }
         }
       ],
@@ -1435,10 +1435,10 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-20T01:58:01Z",
+            "last_commit": "2026-08-21T06:19:18Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58696
+            "stars": 58701
           }
         },
         {
@@ -1768,7 +1768,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17551
+            "stars": 17553
           }
         },
         {
@@ -1783,7 +1783,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14142
+            "stars": 14141
           }
         },
         {
@@ -1813,7 +1813,7 @@
             "last_commit": "2019-04-02T12:35:13Z",
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2226
+            "stars": 2225
           }
         },
         {
@@ -1843,7 +1843,7 @@
             "last_commit": "2026-06-30T01:27:30Z",
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 927
+            "stars": 923
           }
         },
         {
@@ -1866,7 +1866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:18:57.169Z",
+    "last_updated": "2026-08-21T08:20:45.449Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
