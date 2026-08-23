@@ -144,7 +144,7 @@
                 "last_commit": "2026-07-21T06:48:19Z",
                 "owner": "yohasebe",
                 "repo": "ruby-spacy",
-                "stars": 68
+                "stars": 69
               }
             },
             {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T23:01:14Z",
+                    "last_commit": "2026-08-22T17:59:53Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -537,10 +537,10 @@
                     "archived": false,
                     "id": 389209,
                     "language": "Ruby",
-                    "last_commit": "2026-08-21T13:06:10Z",
+                    "last_commit": "2026-08-22T11:30:37Z",
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
-                    "stars": 123
+                    "stars": 124
                   }
                 },
                 {
@@ -1435,10 +1435,10 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-22T06:49:12Z",
+            "last_commit": "2026-08-23T07:26:00Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58701
+            "stars": 58702
           }
         },
         {
@@ -1783,7 +1783,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14141
+            "stars": 14143
           }
         },
         {
@@ -1866,7 +1866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:03:06.453Z",
+    "last_updated": "2026-08-23T08:03:35.855Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
