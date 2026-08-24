@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-22T17:59:53Z",
+                    "last_commit": "2026-08-24T10:45:53Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -248,6 +248,28 @@
           "description": null,
           "node_type": "group",
           "title": "Multipurpose Engines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "scylla",
+              "description": "Language Categorization and Identification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2274957,
+                "language": "Ruby",
+                "last_commit": "2023-04-12T05:49:40Z",
+                "owner": "hashwin",
+                "repo": "scylla",
+                "stars": 37
+              }
+            }
+          ],
+          "description": "Language Identification is one of the first crucial steps in every NLP Pipeline.",
+          "node_type": "group",
+          "title": "Language Identification"
         },
         {
           "children": [
@@ -419,6 +441,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "lemmatizer",
+                  "description": "WordNet based Lemmatizer for English texts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6422522,
+                    "language": "Ruby",
+                    "last_commit": "2021-10-14T08:28:17Z",
+                    "owner": "yohasebe",
+                    "repo": "lemmatizer",
+                    "stars": 113
+                  }
+                }
+              ],
+              "description": "Lemmatization is considered a process of finding a base form of a word. Lemmas are often collected in dictionaries.",
+              "node_type": "group",
+              "title": "Lemmatization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "words_counted",
                   "description": "Pure Ruby library counting word statistics with different custom options.",
                   "children": [],
@@ -466,6 +510,28 @@
               "description": null,
               "node_type": "group",
               "title": "Lexical Statistics: Counting Types and Tokens"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "stopwords-filter",
+                  "description": "Filter and Stop Word Lexicon based on the SnowBall lemmatizer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5389678,
+                    "language": "Ruby",
+                    "last_commit": "2023-11-24T10:33:36Z",
+                    "owner": "brenes",
+                    "repo": "stopwords-filter",
+                    "stars": 80
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Filtering Stop Words"
             }
           ],
           "description": null,
@@ -664,6 +730,28 @@
           "description": null,
           "node_type": "group",
           "title": "Semantic Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SentimentLib",
+              "description": "Simple extensible sentiment analysis gem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7697412,
+                "language": "Ruby",
+                "last_commit": "2013-01-24T21:05:18Z",
+                "owner": "nzaillian",
+                "repo": "sentiment_lib",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pragmatical Analysis"
         }
       ],
       "title": "NLP Pipeline Subtasks"
@@ -742,6 +830,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "alignment",
+              "description": "Alignment routines for bilingual texts (Gale-Church implementation).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20562430,
+                "language": "C",
+                "last_commit": "2014-06-07T09:17:11Z",
+                "owner": "povilasjurcys",
+                "repo": "alignment",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text Alignment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "google-api-client",
               "description": "Google API Ruby Client.",
               "children": [],
@@ -809,6 +919,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "stimmung",
+              "description": "Semantic Polarity based on the SentiWS lexicon.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38280702,
+                "language": "Ruby",
+                "last_commit": "2016-04-24T23:28:22Z",
+                "owner": "pachacamac",
+                "repo": "stimmung",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sentiment Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "chronic",
               "description": "Pure Ruby natural language date parser.",
               "children": [],
@@ -819,7 +951,7 @@
                 "last_commit": "2023-09-28T02:41:20Z",
                 "owner": "mojombo",
                 "repo": "chronic",
-                "stars": 3255
+                "stars": 3254
               }
             },
             {
@@ -1126,7 +1258,7 @@
             "last_commit": "2024-05-27T18:32:55Z",
             "owner": "jekyll",
             "repo": "classifier-reborn",
-            "stars": 559
+            "stars": 558
           }
         },
         {
@@ -1332,6 +1464,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "tesseract-ocr",
+          "description": "FFI based wrapper over the Tesseract OCR Engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2856487,
+            "language": "Ruby",
+            "last_commit": "2017-07-02T12:07:20Z",
+            "owner": "meh",
+            "repo": "ruby-tesseract-ocr",
+            "stars": 636
+          }
+        }
+      ],
+      "title": "Optical Character Recognition"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yomu",
+          "description": "library for extracting text and metadata from files and documents using the Apache Tika content analysis toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3823477,
+            "language": "Ruby",
+            "last_commit": "2023-03-28T14:55:56Z",
+            "owner": "yomurb",
+            "repo": "yomu",
+            "stars": 504
+          }
+        }
+      ],
+      "title": "Text Extraction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "elasticsearch-rails",
           "description": "Ruby and Rails integrations for Elasticsearch.",
           "children": [],
@@ -1435,10 +1609,10 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-24T08:24:24Z",
+            "last_commit": "2026-08-24T10:26:47Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58706
+            "stars": 58709
           }
         },
         {
@@ -1768,7 +1942,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17553
+            "stars": 17552
           }
         },
         {
@@ -1843,7 +2017,7 @@
             "last_commit": "2026-06-30T01:27:30Z",
             "owner": "SciRuby",
             "repo": "iruby",
-            "stars": 923
+            "stars": 924
           }
         },
         {
@@ -1866,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:30:13.745Z",
+    "last_updated": "2026-08-24T14:15:45.662Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
