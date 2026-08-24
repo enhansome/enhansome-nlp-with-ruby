@@ -537,7 +537,7 @@
                     "archived": false,
                     "id": 389209,
                     "language": "Ruby",
-                    "last_commit": "2026-08-22T11:30:37Z",
+                    "last_commit": "2026-08-24T07:25:44Z",
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
                     "stars": 124
@@ -749,7 +749,7 @@
                 "archived": false,
                 "id": 3277842,
                 "language": "Ruby",
-                "last_commit": "2026-08-17T21:43:41Z",
+                "last_commit": "2026-08-23T10:59:02Z",
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
                 "stars": 2895
@@ -819,7 +819,7 @@
                 "last_commit": "2023-09-28T02:41:20Z",
                 "owner": "mojombo",
                 "repo": "chronic",
-                "stars": 3254
+                "stars": 3255
               }
             },
             {
@@ -828,7 +828,7 @@
               "description": "Pure Ruby parser for elapsed time.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "id": 105431,
                 "language": "Ruby",
                 "last_commit": "2025-04-21T19:27:46Z",
@@ -1369,7 +1369,7 @@
             "archived": false,
             "id": 3277842,
             "language": "Ruby",
-            "last_commit": "2026-08-17T21:43:41Z",
+            "last_commit": "2026-08-23T10:59:02Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2895
@@ -1384,7 +1384,7 @@
             "archived": false,
             "id": 9831101,
             "language": "Ruby",
-            "last_commit": "2026-08-21T15:37:49Z",
+            "last_commit": "2026-08-24T06:13:43Z",
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
             "stars": 1977
@@ -1435,10 +1435,10 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-23T07:26:00Z",
+            "last_commit": "2026-08-24T08:24:24Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58702
+            "stars": 58706
           }
         },
         {
@@ -1768,7 +1768,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17554
+            "stars": 17553
           }
         },
         {
@@ -1783,7 +1783,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14143
+            "stars": 14144
           }
         },
         {
@@ -1866,7 +1866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:03:35.855Z",
+    "last_updated": "2026-08-24T08:30:13.745Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
