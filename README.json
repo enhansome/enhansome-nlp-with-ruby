@@ -1609,7 +1609,7 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-25T01:48:27Z",
+            "last_commit": "2026-08-25T08:11:17Z",
             "owner": "rails",
             "repo": "rails",
             "stars": 58709
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:15.737Z",
+    "last_updated": "2026-08-25T08:23:54.547Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
