@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-15T22:00:59Z",
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4263
+                "stars": 4264
               }
             },
             {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T10:45:53Z",
+                    "last_commit": "2026-08-25T01:24:32Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -862,7 +862,7 @@
                 "last_commit": "2026-08-23T10:59:02Z",
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
-                "stars": 2895
+                "stars": 2896
               }
             },
             {
@@ -1546,7 +1546,7 @@
             "last_commit": "2026-08-23T10:59:02Z",
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
-            "stars": 2895
+            "stars": 2896
           }
         },
         {
@@ -1609,7 +1609,7 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-24T10:26:47Z",
+            "last_commit": "2026-08-25T01:48:27Z",
             "owner": "rails",
             "repo": "rails",
             "stars": 58709
@@ -1942,7 +1942,7 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552
+            "stars": 17551
           }
         },
         {
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:15:45.662Z",
+    "last_updated": "2026-08-25T06:11:15.737Z",
     "original_repository": "arbox/nlp-with-ruby",
     "original_repository_id": 53977944,
     "original_repository_sha": "44db8a3e4c74c2a6fdcc6bef6bd14ed021b7bd24",
