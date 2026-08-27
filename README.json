@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-26T21:55:27Z",
+                    "last_commit": "2026-08-27T18:06:37Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
@@ -603,7 +603,7 @@
                     "archived": false,
                     "id": 389209,
                     "language": "Ruby",
-                    "last_commit": "2026-08-27T02:54:46Z",
+                    "last_commit": "2026-08-27T13:11:23Z",
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
                     "stars": 124
@@ -951,7 +951,7 @@
                 "last_commit": "2023-09-28T02:41:20Z",
                 "owner": "mojombo",
                 "repo": "chronic",
-                "stars": 3254
+                "stars": 3253
               }
             },
             {
@@ -1612,7 +1612,7 @@
             "last_commit": "2026-08-27T09:41:02Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58722
+            "stars": 58725
           }
         },
         {
@@ -2040,7 +2040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:53.938Z",
+    "last_updated": "2026-08-27T18:25:07.797Z",
     "original_repository_info": {
       "archived": false,
       "id": 53977944,
