@@ -18,7 +18,8 @@
                 "owner": "grosser",
                 "repo": "parallel",
                 "stars": 4264
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "ondra-m",
                 "repo": "ruby-spark",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "phobos",
                 "repo": "phobos",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "masa16",
                 "repo": "pwrake",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "t6d",
                 "repo": "composable_operations",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -100,7 +105,8 @@
                 "owner": "louismullie",
                 "repo": "treat",
                 "stars": 1367
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "louismullie",
                 "repo": "stanford-core-nlp",
                 "stars": 436
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "louismullie",
                 "repo": "open-nlp",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "yohasebe",
                 "repo": "ruby-spacy",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "hck",
                 "repo": "open_nlp",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "LeFnord",
                 "repo": "nlp_toolz",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "children": [
@@ -188,11 +199,12 @@
                     "archived": false,
                     "id": 20343475,
                     "language": "Ruby",
-                    "last_commit": "2026-08-27T18:06:37Z",
+                    "last_commit": "2026-08-28T01:12:25Z",
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1424
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "wit-ai",
                     "repo": "wit-ruby",
                     "stars": 280
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "AlchemyAPI",
                     "repo": "alchemyapi_ruby",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -237,7 +251,8 @@
                     "owner": "arbox",
                     "repo": "wlapi",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 }
               ],
               "description": null,
@@ -264,7 +279,8 @@
                 "owner": "hashwin",
                 "repo": "scylla",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": "Language Identification is one of the first crucial steps in every NLP Pipeline.",
@@ -286,7 +302,8 @@
                 "owner": "diasks2",
                 "repo": "pragmatic_segmenter",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "diasks2",
                 "repo": "pragmatic_tokenizer",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "lfcipriani",
                 "repo": "punkt-segmenter",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "zencephalon",
                 "repo": "Tactful_Tokenizer",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "louismullie",
                 "repo": "scalpel",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "arbox",
                 "repo": "tokenizer",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "thisiscetin",
                 "repo": "textoken",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "parhamr",
                 "repo": "nlp-pure",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": "Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.",
@@ -415,7 +439,8 @@
                     "owner": "aurelian",
                     "repo": "ruby-stemmer",
                     "stars": 249
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -430,7 +455,8 @@
                     "owner": "ealdent",
                     "repo": "uea-stemmer",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 }
               ],
               "description": "Stemming is the term used in information retrieval to describe the process for reducing wordforms to some base representation. Stemming should be distinguished from Lemmatization since are not necessarily have linguistic motivation.",
@@ -452,7 +478,8 @@
                     "owner": "yohasebe",
                     "repo": "lemmatizer",
                     "stars": 113
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 }
               ],
               "description": "Lemmatization is considered a process of finding a base form of a word. Lemmas are often collected in dictionaries.",
@@ -474,7 +501,8 @@
                     "owner": "abitdodgy",
                     "repo": "words_counted",
                     "stars": 165
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +517,8 @@
                     "owner": "thesp0nge",
                     "repo": "wc",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +533,8 @@
                     "owner": "webtranslateit",
                     "repo": "word_count",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 }
               ],
               "description": null,
@@ -526,7 +556,8 @@
                     "owner": "brenes",
                     "repo": "stopwords-filter",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 }
               ],
               "description": null,
@@ -553,7 +584,8 @@
                 "owner": "postmodern",
                 "repo": "raingrams",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -568,7 +600,8 @@
                 "owner": "reddavis",
                 "repo": "N-Gram",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -583,7 +616,8 @@
                 "owner": "tkellen",
                 "repo": "ruby-ngram",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -607,7 +641,8 @@
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
                     "stars": 124
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 },
                 {
                   "node_type": "item",
@@ -622,7 +657,8 @@
                     "owner": "famished-tiger",
                     "repo": "Rley",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T19:36:22.068Z"
                 }
               ],
               "description": null,
@@ -649,7 +685,8 @@
                 "owner": "jpmckinney",
                 "repo": "tf-idf-similarity",
                 "stars": 783
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -664,7 +701,8 @@
                 "owner": "flori",
                 "repo": "amatch",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -679,7 +717,8 @@
                 "owner": "GlobalNamesArchitecture",
                 "repo": "damerau-levenshtein",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -694,7 +733,8 @@
                 "owner": "dbalatero",
                 "repo": "levenshtein-ffi",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -709,7 +749,8 @@
                 "owner": "colinsurprenant",
                 "repo": "hotwater",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -724,7 +765,8 @@
                 "owner": "reddavis",
                 "repo": "TF-IDF",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -746,7 +788,8 @@
                 "owner": "nzaillian",
                 "repo": "sentiment_lib",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -774,7 +817,8 @@
                 "owner": "subosito",
                 "repo": "gingerice",
                 "stars": 477
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -789,7 +833,8 @@
                 "owner": "postmodern",
                 "repo": "ffi-hunspell",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -804,7 +849,8 @@
                 "owner": "segabor",
                 "repo": "Hunspell",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -819,7 +865,8 @@
                 "owner": "romanbsd",
                 "repo": "hunspell",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -841,7 +888,8 @@
                 "owner": "povilasjurcys",
                 "repo": "alignment",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -863,7 +911,8 @@
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
                 "stars": 2896
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -878,7 +927,8 @@
                 "owner": "pawurb",
                 "repo": "termit",
                 "stars": 504
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -893,7 +943,8 @@
                 "owner": "ikayzo",
                 "repo": "microsoft_translator",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -908,7 +959,8 @@
                 "owner": "pks",
                 "repo": "zipf",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -930,7 +982,8 @@
                 "owner": "pachacamac",
                 "repo": "stimmung",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -952,7 +1005,8 @@
                 "owner": "mojombo",
                 "repo": "chronic",
                 "stars": 3253
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1021,8 @@
                 "owner": "henrypoydar",
                 "repo": "chronic_duration",
                 "stars": 355
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1037,8 @@
                 "owner": "xaviershay",
                 "repo": "kronic",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -997,7 +1053,8 @@
                 "owner": "iainbeeston",
                 "repo": "nickel",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1069,8 @@
                 "owner": "yb66",
                 "repo": "tickle",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1085,8 @@
                 "owner": "jduff",
                 "repo": "numerizer",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1101,8 @@
                 "owner": "jrobertson",
                 "repo": "chronic_between",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -1064,7 +1124,8 @@
                 "owner": "tiendung",
                 "repo": "ruby-nlp",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1079,7 +1140,8 @@
                 "owner": "mikeylong",
                 "repo": "ruby-ner",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -1101,7 +1163,8 @@
                 "owner": "watsonbox",
                 "repo": "pocketsphinx-ruby",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1179,8 @@
                 "owner": "dejan",
                 "repo": "espeak-ruby",
                 "stars": 197
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1195,8 @@
                 "owner": "c2h2",
                 "repo": "tts",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             },
             {
               "node_type": "item",
@@ -1146,7 +1211,8 @@
                 "owner": "adhearsion",
                 "repo": "att_speech",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ],
           "description": null,
@@ -1172,7 +1238,8 @@
             "owner": "litaio",
             "repo": "lita",
             "stars": 1674
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1187,7 +1254,8 @@
             "owner": "muffinista",
             "repo": "chatterbot",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Dialog Agents, Assistants, and Chatbots"
@@ -1208,7 +1276,8 @@
             "owner": "ged",
             "repo": "ruby-wordnet",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1223,7 +1292,8 @@
             "owner": "doches",
             "repo": "rwordnet",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Linguistic Resources"
@@ -1244,7 +1314,8 @@
             "owner": "igrigorik",
             "repo": "decisiontree",
             "stars": 1490
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1259,7 +1330,8 @@
             "owner": "jekyll",
             "repo": "classifier-reborn",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1274,7 +1346,8 @@
             "owner": "tangledpath",
             "repo": "ruby-fann",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1289,7 +1362,8 @@
             "owner": "febeling",
             "repo": "rb-libsvm",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1304,7 +1378,8 @@
             "owner": "oasic",
             "repo": "nbayes",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1319,7 +1394,8 @@
             "owner": "ealdent",
             "repo": "lda-ruby",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1334,7 +1410,8 @@
             "owner": "tomz",
             "repo": "liblinear-ruby-swig",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1349,7 +1426,8 @@
             "owner": "paulgoetze",
             "repo": "weka-jruby",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1364,7 +1442,8 @@
             "owner": "reddavis",
             "repo": "Naive-Bayes",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1379,7 +1458,8 @@
             "owner": "djcp",
             "repo": "linnaeus",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1394,7 +1474,8 @@
             "owner": "mustafaturan",
             "repo": "omnicat-bayes",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1409,7 +1490,8 @@
             "owner": "mustafaturan",
             "repo": "omnicat",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1424,7 +1506,8 @@
             "owner": "mccraigmccraig",
             "repo": "maxent_string_classifier",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1439,7 +1522,8 @@
             "owner": "maspwr",
             "repo": "rtimbl",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1454,7 +1538,8 @@
             "owner": "himkt",
             "repo": "rblearn",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Machine Learning Libraries"
@@ -1475,7 +1560,8 @@
             "owner": "meh",
             "repo": "ruby-tesseract-ocr",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Optical Character Recognition"
@@ -1496,7 +1582,8 @@
             "owner": "yomurb",
             "repo": "yomu",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Text Extraction"
@@ -1517,7 +1604,8 @@
             "owner": "elastic",
             "repo": "elasticsearch-rails",
             "stars": 3084
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1532,7 +1620,8 @@
             "owner": "sunspot",
             "repo": "sunspot",
             "stars": 2979
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1547,7 +1636,8 @@
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2896
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1562,7 +1652,8 @@
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
             "stars": 1977
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1577,7 +1668,8 @@
             "owner": "pat",
             "repo": "thinking-sphinx",
             "stars": 1620
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1592,7 +1684,8 @@
             "owner": "rsolr",
             "repo": "rsolr",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Full Text Search, Information Retrieval, Indexing"
@@ -1609,11 +1702,12 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-27T09:41:02Z",
+            "last_commit": "2026-08-28T18:53:31Z",
             "owner": "rails",
             "repo": "rails",
-            "stars": 58725
-          }
+            "stars": 58727
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1628,7 +1722,8 @@
             "owner": "seamusabshere",
             "repo": "fuzzy_match",
             "stars": 686
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1643,7 +1738,8 @@
             "owner": "ryan-endacott",
             "repo": "verbal_expressions",
             "stars": 568
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1658,7 +1754,8 @@
             "owner": "tom-lord",
             "repo": "regexp-examples",
             "stars": 519
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1673,7 +1770,8 @@
             "owner": "kiyoka",
             "repo": "fuzzy-string-match",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1688,7 +1786,8 @@
             "owner": "mudge",
             "repo": "re2",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1703,7 +1802,8 @@
             "owner": "talyssonoc",
             "repo": "CommonRegexRuby",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1718,7 +1818,8 @@
             "owner": "blackwinter",
             "repo": "unicode",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1733,7 +1834,8 @@
             "owner": "brianhempel",
             "repo": "fuzzy_tools",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1748,7 +1850,8 @@
             "owner": "adnikiforov",
             "repo": "iuliia-rb",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1763,7 +1866,8 @@
             "owner": "AnalyzePlatypus",
             "repo": "TranslitKit",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Language Aware String Manipulation"
@@ -1789,7 +1893,8 @@
                 "owner": "Genius",
                 "repo": "abstractogram",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ]
         },
@@ -1811,7 +1916,8 @@
                 "owner": "nathankleyn",
                 "repo": "ruby-nlp",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ]
         },
@@ -1833,7 +1939,8 @@
                 "owner": "gleicon",
                 "repo": "zenmachine",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:36:22.068Z"
             }
           ]
         }
@@ -1856,7 +1963,8 @@
             "owner": "abitdodgy",
             "repo": "words_counted",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1871,7 +1979,8 @@
             "owner": "schneems",
             "repo": "going_the_distance",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1886,7 +1995,8 @@
             "owner": "mikeylong",
             "repo": "ruby-ner",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Projects and Code Examples"
@@ -1907,7 +2017,8 @@
             "owner": "dbalmain",
             "repo": "ferret",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1922,7 +2033,8 @@
             "owner": "ssoper",
             "repo": "summarize",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Needs your Help!"
@@ -1942,8 +2054,9 @@
             "last_commit": "2026-02-08T17:13:47Z",
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17550
-          }
+            "stars": 17549
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1957,8 +2070,9 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14144
-          }
+            "stars": 14147
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1973,7 +2087,8 @@
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3119
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -1988,7 +2103,8 @@
             "owner": "edobashira",
             "repo": "speech-language-processing",
             "stars": 2225
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -2003,7 +2119,8 @@
             "owner": "diasks2",
             "repo": "ruby-nlp",
             "stars": 1285
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -2018,7 +2135,8 @@
             "owner": "SciRuby",
             "repo": "iruby",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         },
         {
           "node_type": "item",
@@ -2033,14 +2151,15 @@
             "owner": "jonsafari",
             "repo": "nmt-list",
             "stars": 364
-          }
+          },
+          "first_seen": "2026-08-28T19:36:22.068Z"
         }
       ],
       "title": "Related Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:25:07.797Z",
+    "last_updated": "2026-08-28T19:36:22.068Z",
     "original_repository_info": {
       "archived": false,
       "id": 53977944,
