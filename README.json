@@ -910,7 +910,7 @@
                     "id": 389209,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T23:27:30Z",
+                    "last_commit": "2026-08-29T09:42:20Z",
                     "open_issues": 2,
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
@@ -2349,7 +2349,7 @@
             "open_issues": 18,
             "owner": "pat",
             "repo": "thinking-sphinx",
-            "stars": 1620,
+            "stars": 1621,
             "topics": [
               "rails",
               "ruby",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:44:47Z",
+            "last_commit": "2026-08-29T06:25:58Z",
             "open_issues": 1606,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58729,
+            "stars": 58732,
             "topics": [
               "activejob",
               "activerecord",
@@ -2914,7 +2914,7 @@
             "open_issues": 8,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14148,
+            "stars": 14149,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:34:46.949Z",
+    "last_updated": "2026-08-29T13:22:49.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
