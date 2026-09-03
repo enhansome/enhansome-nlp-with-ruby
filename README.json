@@ -216,7 +216,7 @@
                 "id": 378303363,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-31T14:34:12Z",
+                "last_commit": "2026-09-03T04:41:44Z",
                 "open_issues": 3,
                 "owner": "yohasebe",
                 "repo": "ruby-spacy",
@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T10:39:47Z",
-                    "open_issues": 71,
+                    "last_commit": "2026-09-03T10:41:42Z",
+                    "open_issues": 80,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1425,
@@ -910,7 +910,7 @@
                     "id": 389209,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T09:54:27Z",
+                    "last_commit": "2026-09-02T13:19:58Z",
                     "open_issues": 2,
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
@@ -1405,7 +1405,7 @@
                 "open_issues": 148,
                 "owner": "mojombo",
                 "repo": "chronic",
-                "stars": 3253,
+                "stars": 3252,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2274,7 +2274,7 @@
             "open_issues": 152,
             "owner": "sunspot",
             "repo": "sunspot",
-            "stars": 2979,
+            "stars": 2978,
             "topics": [
               "ruby",
               "solr",
@@ -2349,7 +2349,7 @@
             "open_issues": 18,
             "owner": "pat",
             "repo": "thinking-sphinx",
-            "stars": 1621,
+            "stars": 1620,
             "topics": [
               "rails",
               "ruby",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-02T07:13:57Z",
-            "open_issues": 1613,
+            "last_commit": "2026-09-03T08:30:19Z",
+            "open_issues": 1612,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58746,
+            "stars": 58749,
             "topics": [
               "activejob",
               "activerecord",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:17:56.804Z",
+    "last_updated": "2026-09-03T12:15:52.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
