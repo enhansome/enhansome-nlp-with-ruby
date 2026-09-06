@@ -17,7 +17,7 @@
                 "id": 275303,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-03T21:56:58Z",
+                "last_commit": "2026-09-06T06:47:57Z",
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
@@ -1272,7 +1272,7 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T11:36:33Z",
+                "last_commit": "2026-09-06T11:18:37Z",
                 "open_issues": 31,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
@@ -2296,7 +2296,7 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T11:36:33Z",
+            "last_commit": "2026-09-06T11:18:37Z",
             "open_issues": 31,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:32:39Z",
-            "open_issues": 1613,
+            "last_commit": "2026-09-06T06:33:36Z",
+            "open_issues": 1611,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58752,
+            "stars": 58755,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17548,
+            "stars": 17549,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:23:59.909Z",
+    "last_updated": "2026-09-06T11:45:43.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
