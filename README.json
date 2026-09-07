@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T18:59:40Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-09-07T13:13:08Z",
+                    "open_issues": 69,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1425,
@@ -2317,8 +2317,8 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T06:32:00Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-07T06:32:05Z",
+            "open_issues": 24,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
             "stars": 1978,
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-06T06:33:36Z",
-            "open_issues": 1611,
+            "last_commit": "2026-09-07T13:05:07Z",
+            "open_issues": 1619,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58755,
+            "stars": 58758,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17549,
+            "stars": 17550,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2911,7 +2911,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-13T09:40:38Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "markets",
             "repo": "awesome-ruby",
             "stars": 14150,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:45:43.984Z",
+    "last_updated": "2026-09-07T13:41:53.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
