@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4264,
+                "stars": 4265,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T10:57:06Z",
-                    "open_issues": 59,
+                    "last_commit": "2026-09-11T17:48:23Z",
+                    "open_issues": 56,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1426,
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1490,
+            "stars": 1491,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-11T05:28:42Z",
-            "open_issues": 1637,
+            "last_commit": "2026-09-11T23:20:55Z",
+            "open_issues": 1639,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58748,
+            "stars": 58751,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17551,
+            "stars": 17552,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:21:46.667Z",
+    "last_updated": "2026-09-12T11:43:35.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
