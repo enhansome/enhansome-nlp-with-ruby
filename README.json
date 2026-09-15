@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T10:36:15Z",
-                    "open_issues": 57,
+                    "last_commit": "2026-09-14T20:47:46Z",
+                    "open_issues": 55,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1426,
@@ -1276,7 +1276,7 @@
                 "open_issues": 31,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
-                "stars": 2898,
+                "stars": 2899,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2300,7 +2300,7 @@
             "open_issues": 31,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
-            "stars": 2898,
+            "stars": 2899,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2321,7 +2321,7 @@
             "open_issues": 26,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
-            "stars": 1978,
+            "stars": 1977,
             "topics": [
               "client",
               "elastic",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-13T21:57:56Z",
-            "open_issues": 1637,
+            "last_commit": "2026-09-15T07:37:29Z",
+            "open_issues": 1632,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58754,
+            "stars": 58759,
             "topics": [
               "activejob",
               "activerecord",
@@ -2939,7 +2939,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3120,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:25:38.117Z",
+    "last_updated": "2026-09-15T12:54:21.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
