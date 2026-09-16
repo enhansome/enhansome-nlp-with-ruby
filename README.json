@@ -290,7 +290,7 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T20:47:46Z",
+                    "last_commit": "2026-09-15T17:57:38Z",
                     "open_issues": 55,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
@@ -2372,7 +2372,7 @@
             "language": "Ruby",
             "license": "NOASSERTION",
             "last_commit": "2026-06-26T18:05:57Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "rsolr",
             "repo": "rsolr",
             "stars": 423,
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-15T07:37:29Z",
-            "open_issues": 1632,
+            "last_commit": "2026-09-16T07:05:22Z",
+            "open_issues": 1631,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58759,
+            "stars": 58766,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17552,
+            "stars": 17551,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14155,
+            "stars": 14154,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T12:54:21.069Z",
+    "last_updated": "2026-09-16T12:50:55.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
