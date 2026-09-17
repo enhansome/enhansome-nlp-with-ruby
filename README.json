@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T17:57:38Z",
-                    "open_issues": 55,
+                    "last_commit": "2026-09-17T10:39:12Z",
+                    "open_issues": 75,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1426,
@@ -982,7 +982,7 @@
                 "open_issues": 1,
                 "owner": "jpmckinney",
                 "repo": "tf-idf-similarity",
-                "stars": 784,
+                "stars": 785,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1491,
+            "stars": 1492,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -2371,7 +2371,7 @@
             "id": 87821,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-26T18:05:57Z",
+            "last_commit": "2026-09-16T16:35:09Z",
             "open_issues": 27,
             "owner": "rsolr",
             "repo": "rsolr",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-16T07:05:22Z",
-            "open_issues": 1631,
+            "last_commit": "2026-09-17T10:09:12Z",
+            "open_issues": 1640,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58766,
+            "stars": 58765,
             "topics": [
               "activejob",
               "activerecord",
@@ -2914,7 +2914,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14154,
+            "stars": 14156,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2942,7 +2942,7 @@
             "open_issues": 68,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3120,
+            "stars": 3121,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:50:55.609Z",
+    "last_updated": "2026-09-17T12:47:53.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
