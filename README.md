@@ -1,6 +1,6 @@
 <img src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 510,722 | 🐛 107 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 511,235 | 🐛 106 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,226 | 🐛 8 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 721 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -10,7 +10,7 @@
 
 > Useful resources for text processing in Ruby
 
-This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 510,722 | 🐛 107 | 📅 2026-09-02
+This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 511,235 | 🐛 106 | 📅 2026-09-02
 resources, libraries, information sources about computational processing of texts
 in human languages with the [Ruby programming language](ruby).
 That field is often referred to as
@@ -112,11 +112,11 @@ An NLP Pipeline starts with a plain text.
 * [treat](https://github.com/louismullie/treat) ⭐ 1,367 | 🐛 35 | 🌐 Ruby | 📅 2025-05-16 -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 * [stanford-core-nlp](https://github.com/louismullie/stanford-core-nlp) ⭐ 436 | 🐛 18 | 🌐 Ruby | 📅 2025-05-16 -
-  Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,121 | 🐛 192 | 🌐 Java | 📅 2026-09-25 tools.
+  Ruby Bindings for the Stanford [CoreNLP](https://github.com/stanfordnlp/CoreNLP) ⭐ 10,122 | 🐛 192 | 🌐 Java | 📅 2026-09-25 tools.
 * [open-nlp](https://github.com/louismullie/open-nlp) ⭐ 91 | 🐛 2 | 🌐 Ruby | 📅 2025-05-16 -
   Ruby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 * [ruby-spacy](https://github.com/yohasebe/ruby-spacy) ⭐ 69 | 🐛 3 | 🌐 Ruby | 📅 2026-09-08 —
-  Wrapper module for spaCy NLP library via [PyCall](https://github.com/mrkn/pycall.rb) ⭐ 1,117 | 🐛 52 | 🌐 C | 📅 2026-08-21.
+  Wrapper module for spaCy NLP library via [PyCall](https://github.com/mrkn/pycall.rb) ⭐ 1,118 | 🐛 52 | 🌐 C | 📅 2026-08-21.
 * [open\_nlp](https://github.com/hck/open_nlp) ⭐ 11 | 🐛 1 | 🌐 Ruby | 📅 2018-11-28 -
   JRuby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 * [nlp\_toolz](https://github.com/LeFnord/nlp_toolz) ⚠️ Archived -
@@ -215,7 +215,7 @@ are often collected in dictionaries.
 #### Constituency Parsing
 
 * [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) ⭐ 124 | 🐛 2 | 🌐 Ruby | 📅 2026-09-08 -
-  Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-09-23. <sup>\[dep: [ImageMagick](#imagemagick)]</sup>
+  Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-09-27. <sup>\[dep: [ImageMagick](#imagemagick)]</sup>
 * [rley](https://github.com/famished-tiger/Rley) ⭐ 37 | 🐛 2 | 🌐 Ruby | 📅 2025-03-18 -
   Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
   Parsing Algorithm for Context-Free Constituency Grammars.
@@ -224,9 +224,9 @@ are often collected in dictionaries.
 
 ### Semantic Analysis
 
-* [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) ⭐ 786 | 🐛 1 | 🌐 Ruby | 📅 2024-02-26 -
+* [tf-idf-similarity](https://github.com/jpmckinney/tf-idf-similarity) ⭐ 788 | 🐛 1 | 🌐 Ruby | 📅 2024-02-26 -
   Calculate the similarity between texts using TF/IDF.
-* [amatch](https://github.com/flori/amatch) ⭐ 395 | 🐛 3 | 🌐 C | 📅 2026-06-05 -
+* [amatch](https://github.com/flori/amatch) ⭐ 396 | 🐛 3 | 🌐 C | 📅 2026-06-05 -
   Set of five distance types between strings (including Levenshtein, Sellers, Jaro-Winkler, 'pair distance').
 * [damerau-levenshtein](https://github.com/GlobalNamesArchitecture/damerau-levenshtein) ⭐ 152 | 🐛 2 | 🌐 Ruby | 📅 2024-10-03 -
   Calculates edit distance using the Damerau-Levenshtein algorithm.
@@ -262,7 +262,7 @@ are often collected in dictionaries.
 
 ### Machine Translation
 
-* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,900 | 🐛 72 | 🌐 Ruby | 📅 2026-09-25 -
+* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,900 | 🐛 101 | 🌐 Ruby | 📅 2026-09-25 -
   Google API Ruby Client.
 * [termit](https://github.com/pawurb/termit) ⚠️ Archived -
   Google Translate with speech synthesis in your terminal.
@@ -334,7 +334,7 @@ for Ruby.
 
 For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby] list.
 
-* [decisiontree](https://github.com/igrigorik/decisiontree) ⭐ 1,492 | 🐛 10 | 🌐 Ruby | 📅 2018-10-31 -
+* [decisiontree](https://github.com/igrigorik/decisiontree) ⭐ 1,493 | 🐛 10 | 🌐 Ruby | 📅 2018-10-31 -
   Decision Tree ID3 Algorithm in pure Ruby <sup>\[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 * [classifier-reborn](https://github.com/jekyll/classifier-reborn) ⭐ 558 | 🐛 28 | 🌐 Ruby | 📅 2024-05-27 -
   General classifier module to allow Bayesian and other types of classifications.
@@ -373,7 +373,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Optical Character Recognition
 
 * [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) ⭐ 636 | 🐛 24 | 🌐 Ruby | 📅 2017-07-02 -
-  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 76,695 | 🐛 484 | 🌐 C++ | 📅 2026-09-11.
+  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 76,707 | 🐛 487 | 🌐 C++ | 📅 2026-09-11.
 
 ## Text Extraction
 
@@ -387,7 +387,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   Ruby and Rails integrations for [Elasticsearch](https://www.elastic.co/).
 * [sunspot](https://github.com/sunspot/sunspot) ⭐ 2,978 | 🐛 155 | 🌐 JavaScript | 📅 2026-08-18 -
   Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
-* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,900 | 🐛 72 | 🌐 Ruby | 📅 2026-09-25 -
+* [google-api-client](https://github.com/googleapis/google-api-ruby-client) ⭐ 2,900 | 🐛 101 | 🌐 Ruby | 📅 2026-09-25 -
   Ruby API library for [Google](https://developers.google.com/api-client-library/ruby/) services.
 * [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) ⭐ 1,977 | 🐛 27 | 🌐 Ruby | 📅 2026-09-21 -
   Ruby client and API for [Elasticsearch](https://www.elastic.co/).
@@ -403,7 +403,7 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,782 | 🐛 1,647 | 🌐 Ruby | 📅 2026-09-25 -
+* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,780 | 🐛 1,642 | 🌐 Ruby | 📅 2026-09-27 -
   RoR `ActiveSupport` gem has various string extensions that can handle case.
 * [fuzzy\_match](https://github.com/seamusabshere/fuzzy_match) ⭐ 685 | 🐛 18 | 🌐 Ruby | 📅 2021-05-11 -
   Fuzzy string comparison with Distance measures and Regular Expression.
@@ -413,7 +413,7 @@ the underlying language.
   Generate strings that match a given regular expression.
 * [fuzzy-string-match](https://github.com/kiyoka/fuzzy-string-match) ⭐ 287 | 🐛 10 | 🌐 Ruby | 📅 2020-02-29 -
   Fuzzy string matching library for Ruby.
-* [re2](https://github.com/mudge/re2) ⭐ 155 | 🐛 4 | 🌐 Ruby | 📅 2026-09-26 -
+* [re2](https://github.com/mudge/re2) ⭐ 155 | 🐛 1 | 🌐 Ruby | 📅 2026-09-26 -
   hight-speed Regular Expression library for Text Mining and Text Extraction.
 * [CommonRegexRuby](https://github.com/talyssonoc/CommonRegexRuby) ⭐ 80 | 🐛 2 | 🌐 Ruby | 📅 2021-11-29 -
   Find a lot of kinds of common information in a string.
@@ -582,4 +582,4 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
