@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4265,
+                "stars": 4266,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T10:39:35Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-10-01T23:58:30Z",
+                    "open_issues": 53,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1427,
@@ -982,7 +982,7 @@
                 "open_issues": 1,
                 "owner": "jpmckinney",
                 "repo": "tf-idf-similarity",
-                "stars": 788,
+                "stars": 789,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -1272,8 +1272,8 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T17:47:31Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-01T21:37:21Z",
+                "open_issues": 52,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
                 "stars": 2900,
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1493,
+            "stars": 1494,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -2296,8 +2296,8 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T17:47:31Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-01T21:37:21Z",
+            "open_issues": 52,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2900,
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:52:29Z",
-            "open_issues": 1644,
+            "last_commit": "2026-10-02T11:17:27Z",
+            "open_issues": 1640,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58786,
+            "stars": 58795,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17535,
+            "stars": 17534,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2910,11 +2910,11 @@
             "id": 21461715,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-01T13:00:13Z",
+            "last_commit": "2026-10-01T16:25:26Z",
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14162,
+            "stars": 14163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:48:14.734Z",
+    "last_updated": "2026-10-02T14:10:01.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
