@@ -294,7 +294,7 @@
                     "open_issues": 53,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
-                    "stars": 1427,
+                    "stars": 1428,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T20:19:23Z",
-            "open_issues": 1631,
+            "last_commit": "2026-10-03T09:11:11Z",
+            "open_issues": 1632,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58796,
+            "stars": 58797,
             "topics": [
               "activejob",
               "activerecord",
@@ -2520,7 +2520,7 @@
             "id": 795488,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T10:02:47Z",
+            "last_commit": "2026-10-03T12:28:47Z",
             "open_issues": 2,
             "owner": "mudge",
             "repo": "re2",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:10.501Z",
+    "last_updated": "2026-10-03T12:45:31.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
