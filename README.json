@@ -17,7 +17,7 @@
                 "id": 275303,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-09-06T06:47:57Z",
+                "last_commit": "2026-10-03T03:23:20Z",
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
@@ -982,7 +982,7 @@
                 "open_issues": 1,
                 "owner": "jpmckinney",
                 "repo": "tf-idf-similarity",
-                "stars": 789,
+                "stars": 790,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -1272,11 +1272,11 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:37:21Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-02T23:03:31Z",
+                "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
-                "stars": 2900,
+                "stars": 2899,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1494,
+            "stars": 1495,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -2296,11 +2296,11 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:37:21Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-02T23:03:31Z",
+            "open_issues": 51,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
-            "stars": 2900,
+            "stars": 2899,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T11:17:27Z",
-            "open_issues": 1640,
+            "last_commit": "2026-10-02T20:19:23Z",
+            "open_issues": 1631,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58795,
+            "stars": 58796,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17534,
+            "stars": 17535,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14163,
+            "stars": 14164,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3018,7 +3018,7 @@
         {
           "node_type": "item",
           "title": "Neural Machine Translation Implementations",
-          "description": null,
+          "description": "jonsafari/nmt-list",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:10:01.795Z",
+    "last_updated": "2026-10-03T05:00:10.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
