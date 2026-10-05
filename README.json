@@ -18,10 +18,10 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-10-03T03:23:20Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4266,
+                "stars": 4267,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -294,7 +294,7 @@
                     "open_issues": 53,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:36:22.068Z"
@@ -1272,7 +1272,7 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T13:27:38Z",
+                "last_commit": "2026-10-04T15:40:08Z",
                 "open_issues": 51,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1496,
+            "stars": 1497,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -2218,7 +2218,7 @@
             "open_issues": 27,
             "owner": "yomurb",
             "repo": "yomu",
-            "stars": 504,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2296,7 +2296,7 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T13:27:38Z",
+            "last_commit": "2026-10-04T15:40:08Z",
             "open_issues": 51,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
@@ -2317,7 +2317,7 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T06:35:36Z",
+            "last_commit": "2026-10-05T06:14:09Z",
             "open_issues": 29,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-03T19:04:53Z",
-            "open_issues": 1636,
+            "last_commit": "2026-10-05T15:43:32Z",
+            "open_issues": 1631,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58803,
+            "stars": 58804,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17535,
+            "stars": 17534,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2910,7 +2910,7 @@
             "id": 21461715,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-04T08:37:09Z",
+            "last_commit": "2026-10-05T07:53:58Z",
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
@@ -2939,10 +2939,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3125,
+            "stars": 3123,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:29:15.856Z",
+    "last_updated": "2026-10-05T16:25:34.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
