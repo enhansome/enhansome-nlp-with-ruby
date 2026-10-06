@@ -910,7 +910,7 @@
                     "id": 389209,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-09-08T06:12:54Z",
+                    "last_commit": "2026-10-06T14:22:14Z",
                     "open_issues": 2,
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
@@ -2218,7 +2218,7 @@
             "open_issues": 27,
             "owner": "yomurb",
             "repo": "yomu",
-            "stars": 503,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:55:09Z",
+            "last_commit": "2026-10-06T14:26:08Z",
             "open_issues": 1637,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58806,
+            "stars": 58808,
             "topics": [
               "activejob",
               "activerecord",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:04:36.768Z",
+    "last_updated": "2026-10-06T14:29:59.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",

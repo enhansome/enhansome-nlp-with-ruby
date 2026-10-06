@@ -1,6 +1,6 @@
 <img src="header.png" align="center">
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 515,372 | 🐛 106 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 515,463 | 🐛 106 | 📅 2026-09-02 [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
 
 \[[RubyML](https://github.com/arbox/machine-learning-with-ruby) ⭐ 2,228 | 🐛 8 | 🌐 Ruby | 📅 2024-12-26 |
 [RubyDataScience](https://github.com/arbox/data-science-with-ruby) ⭐ 721 | 🐛 1 | 🌐 Ruby | 📅 2023-07-19 |
@@ -10,7 +10,7 @@
 
 > Useful resources for text processing in Ruby
 
-This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 515,372 | 🐛 106 | 📅 2026-09-02
+This curated list comprises [*awesome*](https://github.com/sindresorhus/awesome/blob/master/awesome.md) ⭐ 515,463 | 🐛 106 | 📅 2026-09-02
 resources, libraries, information sources about computational processing of texts
 in human languages with the [Ruby programming language](ruby).
 That field is often referred to as
@@ -214,7 +214,7 @@ are often collected in dictionaries.
 
 #### Constituency Parsing
 
-* [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) ⭐ 124 | 🐛 2 | 🌐 Ruby | 📅 2026-09-08 -
+* [rsyntaxtree](https://github.com/yohasebe/rsyntaxtree) ⭐ 124 | 🐛 2 | 🌐 Ruby | 📅 2026-10-06 -
   Visualization for syntactic trees in Ruby based on [RMagick](https://github.com/rmagick/rmagick) ⭐ 731 | 🐛 5 | 🌐 C++ | 📅 2026-10-04. <sup>\[dep: [ImageMagick](#imagemagick)]</sup>
 * [rley](https://github.com/famished-tiger/Rley) ⭐ 37 | 🐛 2 | 🌐 Ruby | 📅 2025-03-18 -
   Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
@@ -373,11 +373,11 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 ## Optical Character Recognition
 
 * [tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr) ⭐ 636 | 🐛 24 | 🌐 Ruby | 📅 2017-07-02 -
-  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 76,838 | 🐛 493 | 🌐 C++ | 📅 2026-09-28.
+  FFI based wrapper over the [Tesseract OCR Engine](https://github.com/tesseract-ocr/tesseract) ⭐ 76,840 | 🐛 493 | 🌐 C++ | 📅 2026-09-28.
 
 ## Text Extraction
 
-* [yomu](https://github.com/yomurb/yomu) ⭐ 503 | 🐛 27 | 🌐 Ruby | 📅 2023-03-28 -
+* [yomu](https://github.com/yomurb/yomu) ⭐ 504 | 🐛 27 | 🌐 Ruby | 📅 2023-03-28 -
   library for extracting text and metadata from files and documents
   using the [Apache Tika](https://tika.apache.org/) content analysis toolkit.
 
@@ -403,7 +403,7 @@ Libraries for language aware string manipulation, i.e. search, pattern matching,
 case conversion, transcoding, regular expressions which need information about
 the underlying language.
 
-* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,806 | 🐛 1,637 | 🌐 Ruby | 📅 2026-10-05 -
+* [active\_support](https://github.com/rails/rails/tree/master/activesupport/lib/active_support) ⭐ 58,808 | 🐛 1,637 | 🌐 Ruby | 📅 2026-10-06 -
   RoR `ActiveSupport` gem has various string extensions that can handle case.
 * [fuzzy\_match](https://github.com/seamusabshere/fuzzy_match) ⭐ 685 | 🐛 18 | 🌐 Ruby | 📅 2021-05-11 -
   Fuzzy string comparison with Distance measures and Regular Expression.
