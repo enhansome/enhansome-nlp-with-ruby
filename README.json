@@ -290,7 +290,7 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T20:49:50Z",
+                    "last_commit": "2026-10-13T20:26:38Z",
                     "open_issues": 27,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
@@ -1405,7 +1405,7 @@
                 "open_issues": 147,
                 "owner": "mojombo",
                 "repo": "chronic",
-                "stars": 3253,
+                "stars": 3254,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:48:06Z",
-            "open_issues": 1664,
+            "last_commit": "2026-10-14T12:48:07Z",
+            "open_issues": 1663,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58818,
+            "stars": 58837,
             "topics": [
               "activejob",
               "activerecord",
@@ -2914,7 +2914,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14170,
+            "stars": 14169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2939,7 +2939,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3124,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:18:07.050Z",
+    "last_updated": "2026-10-14T13:06:31.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
