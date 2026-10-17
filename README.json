@@ -290,11 +290,11 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T20:49:18Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-10-17T00:09:14Z",
+                    "open_issues": 30,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
-                    "stars": 1428,
+                    "stars": 1427,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-16T07:32:17Z",
-            "open_issues": 1656,
+            "last_commit": "2026-10-17T10:28:25Z",
+            "open_issues": 1672,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58841,
+            "stars": 58849,
             "topics": [
               "activejob",
               "activerecord",
@@ -2520,8 +2520,8 @@
             "id": 795488,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-10T08:10:25Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-17T07:52:27Z",
+            "open_issues": 6,
             "owner": "mudge",
             "repo": "re2",
             "stars": 155,
@@ -2914,7 +2914,7 @@
             "open_issues": 10,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14170,
+            "stars": 14171,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2939,7 +2939,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3124,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:44:58.275Z",
+    "last_updated": "2026-10-17T11:46:15.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
