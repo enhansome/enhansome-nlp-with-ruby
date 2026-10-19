@@ -1840,7 +1840,7 @@
             "open_issues": 28,
             "owner": "jekyll",
             "repo": "classifier-reborn",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "bayesian-classifier",
               "ruby",
@@ -2317,8 +2317,8 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T06:38:35Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-19T06:32:02Z",
+            "open_issues": 33,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
             "stars": 1976,
@@ -2401,8 +2401,8 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-18T10:22:36Z",
-            "open_issues": 1677,
+            "last_commit": "2026-10-19T11:11:55Z",
+            "open_issues": 1680,
             "owner": "rails",
             "repo": "rails",
             "stars": 58849,
@@ -2939,7 +2939,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3124,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:11:36.605Z",
+    "last_updated": "2026-10-19T15:00:15.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
