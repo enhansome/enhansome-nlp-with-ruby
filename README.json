@@ -42,7 +42,7 @@
                 "open_issues": 23,
                 "owner": "ondra-m",
                 "repo": "ruby-spark",
-                "stars": 226,
+                "stars": 225,
                 "topics": [
                   "distributed",
                   "rdd",
@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T23:39:53Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-20T16:17:53Z",
+                    "open_issues": 30,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1427,
@@ -839,7 +839,7 @@
                 "open_issues": 2,
                 "owner": "postmodern",
                 "repo": "raingrams",
-                "stars": 70,
+                "stars": 69,
                 "topics": [
                   "ngrams",
                   "ruby"
@@ -1272,7 +1272,7 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T23:05:14Z",
+                "last_commit": "2026-10-20T19:49:14Z",
                 "open_issues": 9,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
@@ -1297,7 +1297,7 @@
                 "open_issues": 0,
                 "owner": "pawurb",
                 "repo": "termit",
-                "stars": 504,
+                "stars": 503,
                 "topics": [
                   "google-translate",
                   "ruby",
@@ -1708,7 +1708,7 @@
             "open_issues": 15,
             "owner": "litaio",
             "repo": "lita",
-            "stars": 1673,
+            "stars": 1672,
             "topics": [
               "chatbot",
               "chatops",
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1499,
+            "stars": 1500,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -1840,7 +1840,7 @@
             "open_issues": 28,
             "owner": "jekyll",
             "repo": "classifier-reborn",
-            "stars": 559,
+            "stars": 558,
             "topics": [
               "bayesian-classifier",
               "ruby",
@@ -2270,8 +2270,8 @@
             "id": 62509,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-18T07:11:14Z",
-            "open_issues": 155,
+            "last_commit": "2026-10-21T07:08:33Z",
+            "open_issues": 153,
             "owner": "sunspot",
             "repo": "sunspot",
             "stars": 2978,
@@ -2296,7 +2296,7 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T23:05:14Z",
+            "last_commit": "2026-10-20T19:49:14Z",
             "open_issues": 9,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-20T12:14:25Z",
-            "open_issues": 1679,
+            "last_commit": "2026-10-21T13:05:20Z",
+            "open_issues": 1685,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58855,
+            "stars": 58844,
             "topics": [
               "activejob",
               "activerecord",
@@ -2914,7 +2914,7 @@
             "open_issues": 10,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14171,
+            "stars": 14172,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:02:31.446Z",
+    "last_updated": "2026-10-21T13:15:21.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
