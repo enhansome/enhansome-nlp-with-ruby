@@ -914,7 +914,7 @@
                     "open_issues": 2,
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": [
                       "linguistics",
                       "ruby",
@@ -2270,11 +2270,11 @@
             "id": 62509,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:08:33Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-24T18:21:28Z",
+            "open_issues": 153,
             "owner": "sunspot",
             "repo": "sunspot",
-            "stars": 2978,
+            "stars": 2977,
             "topics": [
               "ruby",
               "solr",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-24T12:13:56Z",
-            "open_issues": 1713,
+            "last_commit": "2026-10-25T12:37:46Z",
+            "open_issues": 1699,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58849,
+            "stars": 58855,
             "topics": [
               "activejob",
               "activerecord",
@@ -2911,10 +2911,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-05T07:53:58Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14175,
+            "stars": 14177,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:14:49.077Z",
+    "last_updated": "2026-10-25T12:46:52.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
