@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T10:47:24Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-28T10:39:49Z",
+                    "open_issues": 46,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1427,
@@ -1512,7 +1512,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2023-02-05T16:03:32Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "jduff",
                 "repo": "numerizer",
                 "stars": 38,
@@ -1708,7 +1708,7 @@
             "open_issues": 15,
             "owner": "litaio",
             "repo": "lita",
-            "stars": 1672,
+            "stars": 1671,
             "topics": [
               "chatbot",
               "chatops",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-27T06:26:33Z",
-            "open_issues": 1713,
+            "last_commit": "2026-10-28T12:48:37Z",
+            "open_issues": 1720,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58857,
+            "stars": 58856,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17533,
+            "stars": 17532,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2963,7 +2963,7 @@
             "open_issues": 18,
             "owner": "edobashira",
             "repo": "speech-language-processing",
-            "stars": 2227,
+            "stars": 2226,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:38:18.311Z",
+    "last_updated": "2026-10-28T14:32:39.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
