@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4269,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T10:39:49Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-10-29T10:40:14Z",
+                    "open_issues": 45,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1427,
@@ -1272,8 +1272,8 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:35:19Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-28T21:06:23Z",
+                "open_issues": 13,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
                 "stars": 2900,
@@ -2296,8 +2296,8 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T17:35:19Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-28T21:06:23Z",
+            "open_issues": 13,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2900,
@@ -2349,7 +2349,7 @@
             "open_issues": 18,
             "owner": "pat",
             "repo": "thinking-sphinx",
-            "stars": 1620,
+            "stars": 1619,
             "topics": [
               "rails",
               "ruby",
@@ -2401,8 +2401,8 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-28T12:48:37Z",
-            "open_issues": 1720,
+            "last_commit": "2026-10-29T12:05:32Z",
+            "open_issues": 1721,
             "owner": "rails",
             "repo": "rails",
             "stars": 58856,
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17532,
+            "stars": 17531,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14179,
+            "stars": 14184,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2939,7 +2939,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-07-06T21:02:05Z",
-            "open_issues": 77,
+            "open_issues": 78,
             "owner": "kba",
             "repo": "awesome-ocr",
             "stars": 3125,
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T14:32:39.825Z",
+    "last_updated": "2026-10-29T14:40:17.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
