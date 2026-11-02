@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T21:54:48Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-11-02T13:06:34Z",
+                    "open_issues": 31,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1428,
@@ -426,7 +426,7 @@
                 "open_issues": 32,
                 "owner": "diasks2",
                 "repo": "pragmatic_segmenter",
-                "stars": 596,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -911,10 +911,10 @@
                     "language": "Ruby",
                     "license": "MIT",
                     "last_commit": "2026-10-30T11:33:55Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "yohasebe",
                     "repo": "rsyntaxtree",
-                    "stars": 126,
+                    "stars": 127,
                     "topics": [
                       "linguistics",
                       "ruby",
@@ -1272,8 +1272,8 @@
                 "id": 3277842,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T11:10:20Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-02T16:42:57Z",
+                "open_issues": 11,
                 "owner": "googleapis",
                 "repo": "google-api-ruby-client",
                 "stars": 2900,
@@ -2296,8 +2296,8 @@
             "id": 3277842,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T11:10:20Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-02T16:42:57Z",
+            "open_issues": 11,
             "owner": "googleapis",
             "repo": "google-api-ruby-client",
             "stars": 2900,
@@ -2317,7 +2317,7 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:24:26Z",
+            "last_commit": "2026-11-02T06:07:53Z",
             "open_issues": 36,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-01T14:19:30Z",
-            "open_issues": 1708,
+            "last_commit": "2026-11-02T16:14:26Z",
+            "open_issues": 1719,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58851,
+            "stars": 58846,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17533,
+            "stars": 17532,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2911,10 +2911,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-05T07:53:58Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14185,
+            "stars": 14187,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2942,7 +2942,7 @@
             "open_issues": 79,
             "owner": "kba",
             "repo": "awesome-ocr",
-            "stars": 3126,
+            "stars": 3127,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:32:18.170Z",
+    "last_updated": "2026-11-02T17:27:39.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
