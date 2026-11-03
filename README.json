@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T13:06:34Z",
-                    "open_issues": 31,
+                    "last_commit": "2026-11-03T10:38:01Z",
+                    "open_issues": 27,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1428,
@@ -1814,7 +1814,7 @@
             "open_issues": 10,
             "owner": "igrigorik",
             "repo": "decisiontree",
-            "stars": 1500,
+            "stars": 1501,
             "topics": [
               "decision-tree",
               "machine-learning",
@@ -2317,7 +2317,7 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T06:07:53Z",
+            "last_commit": "2026-11-02T19:28:35Z",
             "open_issues": 36,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-02T16:14:26Z",
-            "open_issues": 1719,
+            "last_commit": "2026-11-03T15:24:58Z",
+            "open_issues": 1725,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58846,
+            "stars": 58843,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17532,
+            "stars": 17533,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2911,10 +2911,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-05T07:53:58Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14187,
+            "stars": 14186,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:27:39.078Z",
+    "last_updated": "2026-11-03T15:29:03.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
