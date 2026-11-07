@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "grosser",
                 "repo": "parallel",
-                "stars": 4270,
+                "stars": 4271,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T11:01:03Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-11-06T22:02:51Z",
+                    "open_issues": 27,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1428,
@@ -1708,7 +1708,7 @@
             "open_issues": 15,
             "owner": "litaio",
             "repo": "lita",
-            "stars": 1671,
+            "stars": 1670,
             "topics": [
               "chatbot",
               "chatops",
@@ -2317,11 +2317,11 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T19:28:35Z",
+            "last_commit": "2026-11-06T20:14:56Z",
             "open_issues": 36,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
-            "stars": 1975,
+            "stars": 1974,
             "topics": [
               "client",
               "elastic",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-06T14:50:07Z",
+            "last_commit": "2026-11-07T11:01:53Z",
             "open_issues": 1761,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58922,
+            "stars": 59078,
             "topics": [
               "activejob",
               "activerecord",
@@ -2520,7 +2520,7 @@
             "id": 795488,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-01T10:21:59Z",
+            "last_commit": "2026-11-07T07:52:33Z",
             "open_issues": 8,
             "owner": "mudge",
             "repo": "re2",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17530,
+            "stars": 17531,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 11,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14183,
+            "stars": 14184,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:24:17.229Z",
+    "last_updated": "2026-11-07T14:22:40.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
