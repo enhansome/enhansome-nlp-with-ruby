@@ -290,8 +290,8 @@
                     "id": 20343475,
                     "language": "Ruby",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T15:50:34Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-11-10T15:09:09Z",
+                    "open_issues": 31,
                     "owner": "googleapis",
                     "repo": "google-cloud-ruby",
                     "stars": 1428,
@@ -982,7 +982,7 @@
                 "open_issues": 1,
                 "owner": "jpmckinney",
                 "repo": "tf-idf-similarity",
-                "stars": 792,
+                "stars": 793,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2218,7 +2218,7 @@
             "open_issues": 27,
             "owner": "yomurb",
             "repo": "yomu",
-            "stars": 504,
+            "stars": 505,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2245,7 +2245,7 @@
             "open_issues": 53,
             "owner": "elastic",
             "repo": "elasticsearch-rails",
-            "stars": 3082,
+            "stars": 3081,
             "topics": [
               "activemodel",
               "activerecord",
@@ -2274,7 +2274,7 @@
             "open_issues": 153,
             "owner": "sunspot",
             "repo": "sunspot",
-            "stars": 2977,
+            "stars": 2976,
             "topics": [
               "ruby",
               "solr",
@@ -2317,11 +2317,11 @@
             "id": 9831101,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T06:22:20Z",
+            "last_commit": "2026-11-09T20:22:02Z",
             "open_issues": 38,
             "owner": "elastic",
             "repo": "elasticsearch-ruby",
-            "stars": 1974,
+            "stars": 1973,
             "topics": [
               "client",
               "elastic",
@@ -2349,7 +2349,7 @@
             "open_issues": 18,
             "owner": "pat",
             "repo": "thinking-sphinx",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "rails",
               "ruby",
@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-09T17:47:18Z",
-            "open_issues": 1762,
+            "last_commit": "2026-11-10T15:24:34Z",
+            "open_issues": 1758,
             "owner": "rails",
             "repo": "rails",
-            "stars": 59086,
+            "stars": 59092,
             "topics": [
               "activejob",
               "activerecord",
@@ -2434,7 +2434,7 @@
             "open_issues": 18,
             "owner": "seamusabshere",
             "repo": "fuzzy_match",
-            "stars": 686,
+            "stars": 687,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -2520,7 +2520,7 @@
             "id": 795488,
             "language": "Ruby",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T15:49:55Z",
+            "last_commit": "2026-11-09T18:24:26Z",
             "open_issues": 3,
             "owner": "mudge",
             "repo": "re2",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17532,
+            "stars": 17531,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:49:48.584Z",
+    "last_updated": "2026-11-10T15:48:45.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
