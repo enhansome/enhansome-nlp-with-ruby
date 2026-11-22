@@ -2401,11 +2401,11 @@
             "id": 8514,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-21T15:34:40Z",
-            "open_issues": 1806,
+            "last_commit": "2026-11-21T23:46:42Z",
+            "open_issues": 1815,
             "owner": "rails",
             "repo": "rails",
-            "stars": 59081,
+            "stars": 59159,
             "topics": [
               "activejob",
               "activerecord",
@@ -2893,7 +2893,7 @@
             "open_issues": 34,
             "owner": "jtoy",
             "repo": "awesome-tensorflow",
-            "stars": 17538,
+            "stars": 17539,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:22.068Z"
@@ -3048,7 +3048,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:39:06.868Z",
+    "last_updated": "2026-11-22T15:42:25.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated List: Practical Natural Language Processing done in Ruby",
